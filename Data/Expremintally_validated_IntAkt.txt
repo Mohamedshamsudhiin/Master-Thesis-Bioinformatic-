@@ -1,0 +1,2067 @@
+Gene1	Gene2	detectionMethod	intraspeciesInteraction
+METTL2A	METTL2B	anti tag coip	Homo sapiens
+TUBA1B	TUBA1C	anti tag coip	Homo sapiens
+FAHD2A	FAHD2B	anti tag coip	Homo sapiens
+FAHD2B	FAHD2A	anti tag coip	Homo sapiens
+FAHD2A	FAHD2B	anti tag coip	Homo sapiens
+ZNF587	ZNF417	validated two hybrid	Homo sapiens
+ZNF417	ZNF587	two hybrid prey pooling approach	Homo sapiens
+ZNF417	ZNF587	two hybrid array	Homo sapiens
+MAGOH	MAGOHB	anti tag coip	Homo sapiens
+MYL12B	MYL12A	anti tag coip	Homo sapiens
+AKR1C2	AKR1C1	anti tag coip	Homo sapiens
+AKR1C2	AKR1C1	anti tag coip	Homo sapiens
+AKR1C2	AKR1C1	anti tag coip	Homo sapiens
+DDX19A	DDX19B	anti tag coip	Homo sapiens
+DDX19B	DDX19A	anti tag coip	Homo sapiens
+MAGEA3	MAGEA6	anti tag coip	Homo sapiens
+MOB1B	MOB1A	anti tag coip	Homo sapiens
+UBE2B	UBE2A	anti tag coip	Homo sapiens
+UBE2B	UBE2A	anti tag coip	Homo sapiens
+TUBB2A	TUBB	anti tag coip	Homo sapiens
+PRPS2	PRPS1	anti tag coip	Homo sapiens
+PRPS1	PRPS2	two hybrid bait and prey pooling approach	Homo sapiens
+PRPS1	PRPS2	anti tag coip	Homo sapiens
+PRPS1	PRPS2	two hybrid array	Homo sapiens
+PRPS1	PRPS2	validated two hybrid	Homo sapiens
+PRPS1	PRPS2	two hybrid array	Homo sapiens
+PRPS1	PRPS2	two hybrid prey pooling approach	Homo sapiens
+PRPS2	PRPS1	two hybrid prey pooling approach	Homo sapiens
+PRPS1	PRPS2	validated two hybrid	Homo sapiens
+PRPS1	PRPS2	two hybrid array	Homo sapiens
+GNAI1	GNAI3	anti tag coip	Homo sapiens
+RRAGA	RRAGB	anti tag coip	Homo sapiens
+MYL12A	MYL9	anti tag coip	Homo sapiens
+STAT5A	STAT5B	anti tag coip	Homo sapiens
+RAB1A	RAB1B	anti tag coip	Homo sapiens
+ACOT2	ACOT1	anti tag coip	Homo sapiens
+ACOT2	ACOT1	anti tag coip	Homo sapiens
+ARL8B	ARL8A	anti tag coip	Homo sapiens
+ARL8A	ARL8B	anti tag coip	Homo sapiens
+ARL8A	ARL8B	anti tag coip	Homo sapiens
+TUBB	TUBB3	anti tag coip	Homo sapiens
+TUBB2B	TUBB3	anti tag coip	Homo sapiens
+PPP1CC	PPP1CA	anti tag coip	Homo sapiens
+RAP2A	RAP2C	anti tag coip	Homo sapiens
+TUBB2A	TUBB3	anti tag coip	Homo sapiens
+RAC1	RAC3	anti tag coip	Homo sapiens
+RAP2A	RAP2B	anti tag coip	Homo sapiens
+ACTR1B	ACTR1A	anti tag coip	Homo sapiens
+ACTR1A	ACTR1B	anti tag coip	Homo sapiens
+ACTR1A	ACTR1B	anti tag coip	Homo sapiens
+RAB6B	RAB6A	anti tag coip	Homo sapiens
+RAB6B	RAB6A	anti tag coip	Homo sapiens
+EIF4A1	EIF4A2	anti tag coip	Homo sapiens
+HNRNPA1	HNRNPA1L2	anti tag coip	Homo sapiens
+HNRNPA1	HNRNPA1L2	anti tag coip	Homo sapiens
+HNRNPA1	HNRNPA1L2	anti tag coip	Homo sapiens
+UTP14C	UTP14A	anti tag coip	Homo sapiens
+SAR1A	SAR1B	anti tag coip	Homo sapiens
+ACTR3B	ACTR3	anti tag coip	Homo sapiens
+ACTR3B	ACTR3	anti tag coip	Homo sapiens
+ACTR3B	ACTR3	anti tag coip	Homo sapiens
+RBM4B	RBM4	anti tag coip	Homo sapiens
+RBM4	RBM4B	anti tag coip	Homo sapiens
+RBM4B	RBM4	anti tag coip	Homo sapiens
+RBM4B	RBM4	anti tag coip	Homo sapiens
+DDX39A	DDX39B	validated two hybrid	Homo sapiens
+DDX39A	DDX39B	two hybrid array	Homo sapiens
+DDX39A	DDX39B	two hybrid prey pooling approach	Homo sapiens
+ATAD3A	ATAD3B	anti bait coip	Homo sapiens
+ATAD3B	ATAD3A	anti bait coip	Homo sapiens
+USP46	USP12	anti tag coip	Homo sapiens
+USP18	USP41	anti tag coip	Homo sapiens
+USP18	USP41	anti tag coip	Homo sapiens
+PPP1CC	PPP1CB	anti tag coip	Homo sapiens
+AKR1C3	AKR1C1	anti tag coip	Homo sapiens
+AKR1C3	AKR1C1	anti tag coip	Homo sapiens
+PPP2R2D	PPP2R2A	anti tag coip	Homo sapiens
+PPP2R2A	PPP2R2D	pull down	Homo sapiens
+PPP2R2D	PPP2R2A	proximity-dependent biotin identification	Homo sapiens
+PPP2R2D	PPP2R2A	pull down	Homo sapiens
+RAC2	RAC3	anti tag coip	Homo sapiens
+RAC2	RAC3	anti tag coip	Homo sapiens
+GSPT2	GSPT1	anti tag coip	Homo sapiens
+GSPT1	GSPT2	anti tag coip	Homo sapiens
+GSPT2	GSPT1	anti tag coip	Homo sapiens
+GSPT2	GSPT1	anti tag coip	Homo sapiens
+RAB5A	RAB5C	anti tag coip	Homo sapiens
+RAB5A	RAB5C	anti tag coip	Homo sapiens
+PTP4A2	PTP4A1	anti tag coip	Homo sapiens
+PTP4A1	PTP4A2	pull down	Homo sapiens
+PTP4A2	PTP4A1	anti tag coip	Homo sapiens
+PTP4A2	PTP4A1	anti tag coip	Homo sapiens
+PTP4A2	PTP4A1	anti bait coip	Homo sapiens
+AKR1C2	AKR1C3	anti tag coip	Homo sapiens
+AKR1C2	AKR1C3	anti tag coip	Homo sapiens
+AKR1C2	AKR1C3	anti tag coip	Homo sapiens
+STK38	STK38L	tap	Homo sapiens
+STK38	STK38L	anti tag coip	Homo sapiens
+GBP1	GBP3	anti tag coip	Homo sapiens
+GBP1	GBP3	anti tag coip	Homo sapiens
+GBP1	GBP3	bifc	Homo sapiens
+GBP1	GBP3	anti tag coip	Homo sapiens
+GBP1	GBP3	anti tag coip	Homo sapiens
+CAPZA2	CAPZA1	anti tag coip	Homo sapiens
+GABARAPL1	GABARAP	anti tag coip	Homo sapiens
+GABARAPL1	GABARAP	anti tag coip	Homo sapiens
+GABARAPL1	GABARAP	anti tag coip	Homo sapiens
+GABARAPL1	GABARAP	anti tag coip	Homo sapiens
+GABARAPL1	GABARAP	anti tag coip	Homo sapiens
+RAB4A	RAB4B	anti tag coip	Homo sapiens
+TPM3	TPM2	anti tag coip	Homo sapiens
+TPM3	TPM2	anti tag coip	Homo sapiens
+ZNF324B	ZNF324	anti tag coip	Homo sapiens
+ZNF324B	ZNF324	anti tag coip	Homo sapiens
+ZNF324B	ZNF324	anti tag coip	Homo sapiens
+ZNF324B	ZNF324	anti tag coip	Homo sapiens
+WDR5B	WDR5	anti tag coip	Homo sapiens
+GNPDA1	GNPDA2	anti tag coip	Homo sapiens
+GNPDA2	GNPDA1	anti tag coip	Homo sapiens
+GNPDA1	GNPDA2	anti tag coip	Homo sapiens
+MRFAP1	MRFAP1L1	two hybrid prey pooling approach	Homo sapiens
+MRFAP1L1	MRFAP1	two hybrid array	Homo sapiens
+MRFAP1L1	MRFAP1	validated two hybrid	Homo sapiens
+MRFAP1	MRFAP1L1	two hybrid array	Homo sapiens
+MRFAP1L1	MRFAP1	validated two hybrid	Homo sapiens
+MRFAP1	MRFAP1L1	two hybrid prey pooling approach	Homo sapiens
+MRFAP1L1	MRFAP1	anti tag coip	Homo sapiens
+MRFAP1L1	MRFAP1	anti tag coip	Homo sapiens
+MRFAP1L1	MRFAP1	anti tag coip	Homo sapiens
+PRKACB	PRKACA	anti tag coip	Homo sapiens
+SEC23A	SEC23B	two hybrid array	Homo sapiens
+SEC23A	SEC23B	validated two hybrid	Homo sapiens
+SEC23A	SEC23B	two hybrid prey pooling approach	Homo sapiens
+PYCR1	PYCR2	anti tag coip	Homo sapiens
+PYCR1	PYCR2	anti tag coip	Homo sapiens
+PYCR2	PYCR1	anti tag coip	Homo sapiens
+CYTH1	CYTH3	anti tag coip	Homo sapiens
+CYTH1	CYTH3	anti tag coip	Homo sapiens
+AP3M1	AP3M2	anti tag coip	Homo sapiens
+CLTC	CLTCL1	anti tag coip	Homo sapiens
+AP1S1	AP1S2	anti bait coip	Homo sapiens
+TBL1XR1	TBL1X	anti bait coip	Homo sapiens
+FKBP1A	FKBP1B	competition binding	Homo sapiens
+RAB2B	RAB2A	anti tag coip	Homo sapiens
+GSTM2	GSTM4	anti tag coip	Homo sapiens
+GSTM2	GSTM4	anti tag coip	Homo sapiens
+GSTM2	GSTM4	anti tag coip	Homo sapiens
+AKT3	AKT1	anti tag coip	Homo sapiens
+TLE4	TLE3	anti tag coip	Homo sapiens
+TLE3	TLE4	anti tag coip	Homo sapiens
+TLE3	TLE4	anti tag coip	Homo sapiens
+RAB8B	RAB8A	anti tag coip	Homo sapiens
+SPOPL	SPOP	molecular sieving	Homo sapiens
+SPOPL	SPOP	anti tag coip	Homo sapiens
+SPOPL	SPOP	anti tag coip	Homo sapiens
+SYNCRIP	HNRNPR	anti tag coip	Homo sapiens
+CYTH1	CYTH2	anti tag coip	Homo sapiens
+BTN2A1	BTN2A2	anti tag coip	Homo sapiens
+BTN2A1	BTN2A2	anti tag coip	Homo sapiens
+EIF5A2	EIF5A	anti tag coip	Homo sapiens
+EIF5A2	EIF5A	anti tag coip	Homo sapiens
+CSNK1G2	CSNK1G3	anti tag coip	Homo sapiens
+CSNK1G2	CSNK1G3	pull down	Homo sapiens
+CSNK1G3	CSNK1G2	pull down	Homo sapiens
+CSNK1G2	CSNK1G3	anti tag coip	Homo sapiens
+CSNK1G2	CSNK1G3	anti tag coip	Homo sapiens
+CSNK1G3	CSNK1G2	anti tag coip	Homo sapiens
+AGO4	AGO3	anti tag coip	Homo sapiens
+AGO3	AGO4	density sedimentation	Homo sapiens
+AHCYL2	AHCYL1	anti tag coip	Homo sapiens
+GMFB	GMFG	anti tag coip	Homo sapiens
+GMFB	GMFG	anti tag coip	Homo sapiens
+PYGB	PYGL	two hybrid array	Homo sapiens
+PYGB	PYGL	validated two hybrid	Homo sapiens
+PYGB	PYGL	two hybrid prey pooling approach	Homo sapiens
+PYGL	PYGB	two hybrid bait and prey pooling approach	Homo sapiens
+PYGL	PYGB	two hybrid array	Homo sapiens
+PYGL	PYGB	validated two hybrid	Homo sapiens
+PYGL	PYGB	two hybrid array	Homo sapiens
+PYGL	PYGB	validated two hybrid	Homo sapiens
+PYGL	PYGB	two hybrid prey pooling approach	Homo sapiens
+PYGB	PYGL	anti tag coip	Homo sapiens
+PYGB	PYGL	anti tag coip	Homo sapiens
+LIN7C	LIN7B	anti tag coip	Homo sapiens
+LIN7C	LIN7B	anti tag coip	Homo sapiens
+MAP2K2	MAP2K1	anti tag coip	Homo sapiens
+CKS1B	CKS2	anti tag coip	Homo sapiens
+MAPK8	MAPK9	anti tag coip	Homo sapiens
+FBXW11	BTRC	anti tag coip	Homo sapiens
+BTRC	FBXW11	anti tag coip	Homo sapiens
+SSBP2	SSBP3	anti tag coip	Homo sapiens
+SSBP3	SSBP2	pull down	Homo sapiens
+SSBP2	SSBP3	anti tag coip	Homo sapiens
+SSBP2	SSBP3	anti tag coip	Homo sapiens
+CFL2	CFL1	two hybrid array	Homo sapiens
+CFL1	CFL2	two hybrid prey pooling approach	Homo sapiens
+CFL2	CFL1	validated two hybrid	Homo sapiens
+RPS6KA3	RPS6KA1	anti tag coip	Homo sapiens
+RPS6KA3	RPS6KA1	anti tag coip	Homo sapiens
+VPS4A	VPS4B	anti tag coip	Homo sapiens
+VPS4B	VPS4A	anti tag coip	Homo sapiens
+VPS4A	VPS4B	anti tag coip	Homo sapiens
+UBE2R2	CDC34	anti tag coip	Homo sapiens
+CDC34	UBE2R2	anti tag coip	Homo sapiens
+CAB39L	CAB39	anti tag coip	Homo sapiens
+CAB39L	CAB39	anti tag coip	Homo sapiens
+CAB39L	CAB39	anti tag coip	Homo sapiens
+CSNK1G3	CSNK1G1	anti tag coip	Homo sapiens
+CSNK1G3	CSNK1G1	anti tag coip	Homo sapiens
+CSNK1G1	CSNK1G3	anti tag coip	Homo sapiens
+BTN3A3	BTN3A1	anti tag coip	Homo sapiens
+BTN3A3	BTN3A1	anti tag coip	Homo sapiens
+BTN3A3	BTN3A1	anti tag coip	Homo sapiens
+RPS6KA2	RPS6KA3	anti tag coip	Homo sapiens
+RPS6KA3	RPS6KA2	pull down	Homo sapiens
+RPS6KA3	RPS6KA2	anti tag coip	Homo sapiens
+ARL5B	ARL5A	anti tag coip	Homo sapiens
+LCP1	PLS3	anti tag coip	Homo sapiens
+PLS3	LCP1	anti tag coip	Homo sapiens
+LCP1	PLS3	anti tag coip	Homo sapiens
+POLR2J	POLR2J2	anti tag coip	Homo sapiens
+POLR2J	POLR2J2	anti tag coip	Homo sapiens
+POLR2J	POLR2J2	anti tag coip	Homo sapiens
+CSNK1G1	CSNK1G2	anti tag coip	Homo sapiens
+CSNK1G2	CSNK1G1	pull down	Homo sapiens
+CSNK1G1	CSNK1G2	pull down	Homo sapiens
+CSNK1G1	CSNK1G2	anti tag coip	Homo sapiens
+RAB40B	RAB40C	anti tag coip	Homo sapiens
+RAB40B	RAB40C	anti tag coip	Homo sapiens
+RAB40B	RAB40C	anti tag coip	Homo sapiens
+RAB40B	RAB40C	anti tag coip	Homo sapiens
+PPP3CC	PPP3CB	anti tag coip	Homo sapiens
+PPP3CC	PPP3CB	anti tag coip	Homo sapiens
+DHRS4L2	DHRS4	anti tag coip	Homo sapiens
+DHRS4L2	DHRS4	anti tag coip	Homo sapiens
+ZNF562	ZNF561	anti tag coip	Homo sapiens
+ZNF562	ZNF561	anti tag coip	Homo sapiens
+ZNF562	ZNF561	anti tag coip	Homo sapiens
+CNOT6L	CNOT6	socioaffinity inference	Homo sapiens
+CNOT6L	CNOT6	anti tag coip	Homo sapiens
+CNOT6L	CNOT6	anti tag coip	Homo sapiens
+ARF3	ARF5	anti tag coip	Homo sapiens
+ARF5	ARF3	anti tag coip	Homo sapiens
+ARF3	ARF4	anti tag coip	Homo sapiens
+CAMK2D	CAMK2G	anti tag coip	Homo sapiens
+CAMK2D	CAMK2G	anti tag coip	Homo sapiens
+SNX3	SNX12	anti tag coip	Homo sapiens
+SNX3	SNX12	anti tag coip	Homo sapiens
+WNT5A	WNT5B	anti tag coip	Homo sapiens
+WNT5A	WNT5B	anti tag coip	Homo sapiens
+IMPDH2	IMPDH1	anti tag coip	Homo sapiens
+IMPDH2	IMPDH1	validated two hybrid	Homo sapiens
+IMPDH2	IMPDH1	two hybrid array	Homo sapiens
+IMPDH2	IMPDH1	two hybrid prey pooling approach	Homo sapiens
+DCUN1D1	DCUN1D2	tap	Homo sapiens
+DCUN1D1	DCUN1D2	tap	Homo sapiens
+NEK6	NEK7	anti tag coip	Homo sapiens
+NEK7	NEK6	pull down	Homo sapiens
+NEK6	NEK7	anti tag coip	Homo sapiens
+NEK7	NEK6	anti tag coip	Homo sapiens
+RPS6KA2	RPS6KA1	anti tag coip	Homo sapiens
+RPS6KA2	RPS6KA1	anti tag coip	Homo sapiens
+PITPNB	PITPNA	anti tag coip	Homo sapiens
+PITPNB	PITPNA	anti tag coip	Homo sapiens
+FZD7	FZD2	anti tag coip	Homo sapiens
+SMURF2	SMURF1	anti tag coip	Homo sapiens
+CTSV	CTSL	anti tag coip	Homo sapiens
+CTSV	CTSL	anti tag coip	Homo sapiens
+CTSV	CTSL	anti tag coip	Homo sapiens
+SLC25A13	SLC25A12	anti tag coip	Homo sapiens
+SLC25A13	SLC25A12	anti tag coip	Homo sapiens
+MEIS2	MEIS1	anti tag coip	Homo sapiens
+MEIS2	MEIS1	anti tag coip	Homo sapiens
+ALDOC	ALDOA	anti tag coip	Homo sapiens
+ALDOA	ALDOC	anti tag coip	Homo sapiens
+ALDOA	ALDOC	two hybrid array	Homo sapiens
+ALDOA	ALDOC	anti tag coip	Homo sapiens
+ALDOC	ALDOA	anti tag coip	Homo sapiens
+PBX1	PBX2	imaging technique	Homo sapiens
+PTP4A2	PTP4A3	pull down	Homo sapiens
+PTP4A2	PTP4A3	anti tag coip	Homo sapiens
+PTP4A2	PTP4A3	anti tag coip	Homo sapiens
+PAPSS1	PAPSS2	anti tag coip	Homo sapiens
+PAPSS1	PAPSS2	anti tag coip	Homo sapiens
+PAPSS2	PAPSS1	anti tag coip	Homo sapiens
+GBP1	GBP2	anti tag coip	Homo sapiens
+GBP1	GBP2	anti tag coip	Homo sapiens
+GBP2	GBP1	anti tag coip	Homo sapiens
+GBP2	GBP1	anti tag coip	Homo sapiens
+GBP1	GBP2	anti tag coip	Homo sapiens
+GBP1	GBP2	bifc	Homo sapiens
+GBP2	GBP1	bifc	Homo sapiens
+GBP1	GBP2	bifc	Homo sapiens
+GBP2	GBP1	bifc	Homo sapiens
+GBP1	GBP2	anti tag coip	Homo sapiens
+GBP1	GBP2	anti tag coip	Homo sapiens
+TMED9	TMED4	anti tag coip	Homo sapiens
+TMED9	TMED4	anti tag coip	Homo sapiens
+TMED9	TMED4	anti tag coip	Homo sapiens
+ARFGEF1	ARFGEF2	anti bait coip	Homo sapiens
+ARFGEF1	ARFGEF2	anti bait coip	Homo sapiens
+ARFGEF2	ARFGEF1	anti bait coip	Homo sapiens
+ARFGEF1	ARFGEF2	anti bait coip	Homo sapiens
+ARFGEF1	ARFGEF2	anti bait coip	Homo sapiens
+ARFGEF2	ARFGEF1	anti bait coip	Homo sapiens
+ARFGEF1	ARFGEF2	molecular sieving	Homo sapiens
+ARFGEF1	ARFGEF2	anti bait coip	Homo sapiens
+FAM50A	FAM50B	anti tag coip	Homo sapiens
+PTBP3	PTBP1	anti bait coip	Homo sapiens
+LDHA	LDHB	anti tag coip	Homo sapiens
+LDHA	LDHB	2 hybrid	Homo sapiens
+ADSS2	ADSS1	anti tag coip	Homo sapiens
+ADSS2	ADSS1	anti tag coip	Homo sapiens
+ADSS2	ADSS1	anti tag coip	Homo sapiens
+TEAD4	TEAD1	anti tag coip	Homo sapiens
+PRPSAP1	PRPSAP2	anti tag coip	Homo sapiens
+PRPSAP2	PRPSAP1	two hybrid array	Homo sapiens
+PRPSAP2	PRPSAP1	validated two hybrid	Homo sapiens
+PRPSAP2	PRPSAP1	validated two hybrid	Homo sapiens
+PRPSAP1	PRPSAP2	two hybrid prey pooling approach	Homo sapiens
+PRPSAP2	PRPSAP1	two hybrid prey pooling approach	Homo sapiens
+PRPSAP1	PRPSAP2	two hybrid array	Homo sapiens
+PRPSAP2	PRPSAP1	anti tag coip	Homo sapiens
+PRPSAP1	PRPSAP2	anti tag coip	Homo sapiens
+BTBD1	BTBD2	anti tag coip	Homo sapiens
+BTBD1	BTBD2	fluorescence imaging	Homo sapiens
+BTBD2	BTBD1	fluorescence imaging	Homo sapiens
+BTBD1	BTBD2	fluorescence imaging	Homo sapiens
+BTBD1	BTBD2	anti tag coip	Homo sapiens
+BTBD1	BTBD2	anti tag coip	Homo sapiens
+RRM2B	RRM2	anti tag coip	Homo sapiens
+RRM2	RRM2B	anti tag coip	Homo sapiens
+RRM2B	RRM2	anti tag coip	Homo sapiens
+RRM2	RRM2B	anti tag coip	Homo sapiens
+RRM2B	RRM2	anti tag coip	Homo sapiens
+CTPS1	CTPS2	validated two hybrid	Homo sapiens
+CTPS1	CTPS2	two hybrid array	Homo sapiens
+CTPS1	CTPS2	two hybrid prey pooling approach	Homo sapiens
+CTPS1	CTPS2	anti tag coip	Homo sapiens
+CTPS2	CTPS1	anti tag coip	Homo sapiens
+CTPS2	CTPS1	anti tag coip	Homo sapiens
+PLS3	PLS1	anti tag coip	Homo sapiens
+EHD4	EHD1	pull down	Homo sapiens
+SEPTIN11	SEPTIN8	anti tag coip	Homo sapiens
+SEPTIN8	SEPTIN11	anti tag coip	Homo sapiens
+SEPTIN11	SEPTIN8	anti tag coip	Homo sapiens
+SEPTIN11	SEPTIN8	anti tag coip	Homo sapiens
+HLA-C	HLA-E	anti tag coip	Homo sapiens
+ABHD17A	ABHD17C	anti tag coip	Homo sapiens
+MAFK	MAFG	anti tag coip	Homo sapiens
+MAPK14	MAPK11	2 hybrid	Homo sapiens
+DNAJA4	DNAJA1	anti tag coip	Homo sapiens
+PANK3	PANK2	anti tag coip	Homo sapiens
+ALDH1B1	ALDH2	anti tag coip	Homo sapiens
+HK1	HK2	anti tag coip	Homo sapiens
+HMGB1	HMGB3	crosslink	Homo sapiens
+LCP1	PLS1	anti tag coip	Homo sapiens
+LCP1	PLS1	anti tag coip	Homo sapiens
+PARVA	PARVB	anti tag coip	Homo sapiens
+PARVA	PARVB	anti tag coip	Homo sapiens
+SSBP3	SSBP4	pull down	Homo sapiens
+CSTF2T	CSTF2	anti tag coip	Homo sapiens
+CSTF2T	CSTF2	anti tag coip	Homo sapiens
+CSTF2T	CSTF2	anti tag coip	Homo sapiens
+ERLIN2	ERLIN1	pull down	Homo sapiens
+ERLIN2	ERLIN1	pull down	Homo sapiens
+ERLIN2	ERLIN1	tap	Homo sapiens
+TLK1	TLK2	pull down	Homo sapiens
+TLK2	TLK1	pull down	Homo sapiens
+TLK2	TLK1	anti bait coip	Homo sapiens
+TLK2	TLK1	anti tag coip	Homo sapiens
+TLK2	TLK1	anti tag coip	Homo sapiens
+TLK2	TLK1	pull down	Homo sapiens
+TLK2	TLK1	pull down	Homo sapiens
+TLK2	TLK1	proximity-dependent biotin identification	Homo sapiens
+TLK2	TLK1	proximity-dependent biotin identification	Homo sapiens
+TLK2	TLK1	proximity-dependent biotin identification	Homo sapiens
+TLK2	TLK1	pull down	Homo sapiens
+CORO1C	CORO1B	anti tag coip	Homo sapiens
+CORO1B	CORO1C	anti bait coip	Homo sapiens
+CORO1B	CORO1C	anti bait coip	Homo sapiens
+CORO1B	CORO1C	anti tag coip	Homo sapiens
+CORO1C	CORO1B	anti tag coip	Homo sapiens
+CORO1C	CORO1B	anti tag coip	Homo sapiens
+CORO1C	CORO1B	anti tag coip	Homo sapiens
+SPIN4	SPIN1	anti tag coip	Homo sapiens
+SPIN1	SPIN4	anti tag coip	Homo sapiens
+ATP9A	ATP9B	anti tag coip	Homo sapiens
+CAMK1D	CAMK1	anti tag coip	Homo sapiens
+CAMK1	CAMK1D	pull down	Homo sapiens
+CAMK1D	CAMK1	pull down	Homo sapiens
+CAMK1D	CAMK1	anti tag coip	Homo sapiens
+HARS2	HARS1	anti tag coip	Homo sapiens
+HARS2	HARS1	anti tag coip	Homo sapiens
+BZW1	BZW2	anti tag coip	Homo sapiens
+BZW2	BZW1	anti tag coip	Homo sapiens
+BZW1	BZW2	anti tag coip	Homo sapiens
+BZW1	BZW2	anti bait coip	Homo sapiens
+SSBP2	SSBP4	anti tag coip	Homo sapiens
+SSBP2	SSBP4	anti tag coip	Homo sapiens
+SSBP2	SSBP4	anti tag coip	Homo sapiens
+VDAC2	VDAC3	crosslink	Homo sapiens
+ST7L	ST7	anti tag coip	Homo sapiens
+CCNYL1	CCNY	anti tag coip	Homo sapiens
+CCNYL1	CCNY	anti tag coip	Homo sapiens
+RAB31	RAB22A	anti tag coip	Homo sapiens
+RAB31	RAB22A	anti tag coip	Homo sapiens
+SAFB	SAFB2	2 hybrid	Homo sapiens
+SAFB2	SAFB	anti tag coip	Homo sapiens
+SAFB	SAFB2	anti tag coip	Homo sapiens
+HNRNPA3	HNRNPA1L2	crosslink	Homo sapiens
+CBR3	CBR1	anti tag coip	Homo sapiens
+CBR3	CBR1	anti tag coip	Homo sapiens
+CBR3	CBR1	anti tag coip	Homo sapiens
+CBR3	CBR1	anti tag coip	Homo sapiens
+DENND5A	DENND5B	anti tag coip	Homo sapiens
+CLCN5	CLCN3	anti tag coip	Homo sapiens
+TNFAIP1	KCTD10	validated two hybrid	Homo sapiens
+KCTD10	TNFAIP1	two hybrid prey pooling approach	Homo sapiens
+TNFAIP1	KCTD10	validated two hybrid	Homo sapiens
+TNFAIP1	KCTD10	two hybrid prey pooling approach	Homo sapiens
+TNFAIP1	KCTD10	two hybrid array	Homo sapiens
+KCTD10	TNFAIP1	two hybrid array	Homo sapiens
+TNFAIP1	KCTD10	anti tag coip	Homo sapiens
+TNFAIP1	KCTD10	anti tag coip	Homo sapiens
+TNFAIP1	KCTD10	anti tag coip	Homo sapiens
+BTN3A2	BTN3A3	anti tag coip	Homo sapiens
+BTN3A3	BTN3A2	anti tag coip	Homo sapiens
+BTN3A2	BTN3A3	anti tag coip	Homo sapiens
+EXOC6B	EXOC6	socioaffinity inference	Homo sapiens
+EXOC6B	EXOC6	anti tag coip	Homo sapiens
+GSTM3	GSTM4	anti tag coip	Homo sapiens
+GSTM3	GSTM4	two hybrid prey pooling approach	Homo sapiens
+GSTM3	GSTM4	validated two hybrid	Homo sapiens
+GSTM3	GSTM4	two hybrid array	Homo sapiens
+GSTM4	GSTM3	two hybrid array	Homo sapiens
+GSTM3	GSTM4	anti tag coip	Homo sapiens
+GSTM3	GSTM4	anti tag coip	Homo sapiens
+GSTM3	GSTM4	anti tag coip	Homo sapiens
+B4GALT6	B4GALT5	anti tag coip	Homo sapiens
+PFKP	PFKM	anti tag coip	Homo sapiens
+PFKP	PFKM	anti tag coip	Homo sapiens
+SMARCD1	SMARCD3	anti tag coip	Homo sapiens
+UBE2Q2	UBE2Q1	anti tag coip	Homo sapiens
+UBE2Q2	UBE2Q1	anti tag coip	Homo sapiens
+STAG1	STAG2	crosslink	Homo sapiens
+STAG2	STAG1	tap	Homo sapiens
+STAG1	STAG2	anti bait coip	Homo sapiens
+STAG2	STAG1	anti bait coip	Homo sapiens
+STAG1	STAG2	anti tag coip	Homo sapiens
+STAG2	STAG1	anti bait coip	Homo sapiens
+FAM200A	FAM200B	anti tag coip	Homo sapiens
+SEPTIN10	SEPTIN11	anti tag coip	Homo sapiens
+SEPTIN11	SEPTIN10	anti tag coip	Homo sapiens
+SEPTIN10	SEPTIN11	anti tag coip	Homo sapiens
+SEPTIN10	SEPTIN11	anti tag coip	Homo sapiens
+MORF4L1	MORF4L2	anti tag coip	Homo sapiens
+TFCP2	UBP1	two hybrid array	Homo sapiens
+NAA15	NAA16	anti tag coip	Homo sapiens
+NAA15	NAA16	anti tag coip	Homo sapiens
+ASF1A	ASF1B	tap	Homo sapiens
+ASF1A	ASF1B	anti tag coip	Homo sapiens
+NDST2	NDST1	anti tag coip	Homo sapiens
+NDST2	NDST1	anti tag coip	Homo sapiens
+NDST2	NDST1	anti tag coip	Homo sapiens
+YTHDF3	YTHDF1	anti tag coip	Homo sapiens
+RMND5A	RMND5B	anti tag coip	Homo sapiens
+RMND5A	RMND5B	socioaffinity inference	Homo sapiens
+CDK16	CDK17	anti tag coip	Homo sapiens
+UCK2	UCK1	anti tag coip	Homo sapiens
+UCK2	UCK1	anti tag coip	Homo sapiens
+UCK2	UCK1	anti tag coip	Homo sapiens
+SFN	YWHAQ	anti tag coip	Homo sapiens
+YWHAQ	SFN	anti tag coip	Homo sapiens
+TAOK3	TAOK1	pull down	Homo sapiens
+VPS26A	VPS26B	anti tag coip	Homo sapiens
+SLC12A4	SLC12A7	anti tag coip	Homo sapiens
+FLNA	FLNB	anti tag coip	Homo sapiens
+SEPHS1	SEPHS2	anti tag coip	Homo sapiens
+SEPHS1	SEPHS2	anti tag coip	Homo sapiens
+GRK6	GRK5	anti tag coip	Homo sapiens
+SFN	YWHAZ	anti tag coip	Homo sapiens
+STRIP1	STRIP2	anti tag coip	Homo sapiens
+STRIP2	STRIP1	anti tag coip	Homo sapiens
+TMEM120A	TMEM120B	socioaffinity inference	Homo sapiens
+TMEM120A	TMEM120B	anti tag coip	Homo sapiens
+MYL6	MYL6B	anti tag coip	Homo sapiens
+MYL6	MYL6B	anti tag coip	Homo sapiens
+MYL6	MYL6B	anti tag coip	Homo sapiens
+KLC2	KLC4	anti tag coip	Homo sapiens
+KLC2	KLC4	anti tag coip	Homo sapiens
+PRKAB1	PRKAB2	anti tag coip	Homo sapiens
+PRKAB1	PRKAB2	anti tag coip	Homo sapiens
+EVI5	EVI5L	anti tag coip	Homo sapiens
+DSTN	CFL2	two hybrid prey pooling approach	Homo sapiens
+DSTN	CFL2	validated two hybrid	Homo sapiens
+CFL2	DSTN	two hybrid array	Homo sapiens
+DSTN	CFL2	two hybrid prey pooling approach	Homo sapiens
+DSTN	CFL2	validated two hybrid	Homo sapiens
+DSTN	CFL2	two hybrid array	Homo sapiens
+CFL2	DSTN	two hybrid array	Homo sapiens
+PHKA2	PHKA1	anti tag coip	Homo sapiens
+PHKA2	PHKA1	anti tag coip	Homo sapiens
+PFKM	PFKL	2 hybrid	Homo sapiens
+PFKM	PFKL	affinity chrom	Homo sapiens
+PFKM	PFKL	affinity chrom	Homo sapiens
+PFKL	PFKM	affinity chrom	Homo sapiens
+PFKM	PFKL	affinity chrom	Homo sapiens
+PFKL	PFKM	affinity chrom	Homo sapiens
+SLC9A6	SLC9A7	anti tag coip	Homo sapiens
+SLC9A6	SLC9A7	anti tag coip	Homo sapiens
+SLC9A6	SLC9A7	anti tag coip	Homo sapiens
+SLC9A6	SLC9A7	anti tag coip	Homo sapiens
+RCBTB2	RCBTB1	anti tag coip	Homo sapiens
+RCBTB2	RCBTB1	anti tag coip	Homo sapiens
+DPYSL3	CRMP1	anti tag coip	Homo sapiens
+CRMP1	DPYSL3	two hybrid prey pooling approach	Homo sapiens
+CRMP1	DPYSL3	validated two hybrid	Homo sapiens
+CRMP1	DPYSL3	two hybrid array	Homo sapiens
+DPYSL3	CRMP1	two hybrid prey pooling approach	Homo sapiens
+CRMP1	DPYSL3	validated two hybrid	Homo sapiens
+DPYSL3	CRMP1	two hybrid array	Homo sapiens
+DPYSL3	CRMP1	anti tag coip	Homo sapiens
+DPYSL3	CRMP1	anti tag coip	Homo sapiens
+PPM1A	PPM1B	anti tag coip	Homo sapiens
+PPM1A	PPM1B	anti tag coip	Homo sapiens
+EHD4	EHD2	pull down	Homo sapiens
+EHD2	EHD4	anti tag coip	Homo sapiens
+PTBP3	PTBP2	anti bait coip	Homo sapiens
+NCK2	NCK1	anti tag coip	Homo sapiens
+TARS1	TARS3	two hybrid prey pooling approach	Homo sapiens
+TARS3	TARS1	validated two hybrid	Homo sapiens
+TARS1	TARS3	two hybrid array	Homo sapiens
+TARS3	TARS1	validated two hybrid	Homo sapiens
+TARS1	TARS3	two hybrid prey pooling approach	Homo sapiens
+TARS1	TARS3	two hybrid array	Homo sapiens
+TPM4	TPM2	anti tag coip	Homo sapiens
+TPM4	TPM2	anti tag coip	Homo sapiens
+DPYSL3	DPYSL2	validated two hybrid	Homo sapiens
+DPYSL2	DPYSL3	two hybrid prey pooling approach	Homo sapiens
+DPYSL3	DPYSL2	two hybrid array	Homo sapiens
+DPYSL3	DPYSL2	anti tag coip	Homo sapiens
+DPYSL3	DPYSL2	two hybrid prey pooling approach	Homo sapiens
+DPYSL3	DPYSL2	validated two hybrid	Homo sapiens
+DPYSL3	DPYSL2	two hybrid array	Homo sapiens
+DPYSL3	DPYSL2	two hybrid array	Homo sapiens
+DPYSL3	DPYSL2	validated two hybrid	Homo sapiens
+DPYSL3	DPYSL2	validated two hybrid	Homo sapiens
+DPYSL3	DPYSL2	mappit	Homo sapiens
+DPYSL3	DPYSL2	two hybrid prey pooling approach	Homo sapiens
+DPYSL2	DPYSL3	two hybrid prey pooling approach	Homo sapiens
+DPYSL2	DPYSL3	two hybrid array	Homo sapiens
+FMNL3	FMNL2	anti tag coip	Homo sapiens
+TLE4	TLE2	anti tag coip	Homo sapiens
+TLE2	TLE4	tap	Homo sapiens
+TLE4	TLE2	anti tag coip	Homo sapiens
+TLE2	TLE4	anti tag coip	Homo sapiens
+TLE2	TLE1	tap	Homo sapiens
+MACROH2A2	MACROH2A1	anti tag coip	Homo sapiens
+MACROH2A2	MACROH2A1	anti tag coip	Homo sapiens
+MACROH2A2	MACROH2A1	anti tag coip	Homo sapiens
+SEPTIN10	SEPTIN8	anti tag coip	Homo sapiens
+SEPTIN8	SEPTIN10	anti tag coip	Homo sapiens
+SEPTIN10	SEPTIN8	anti tag coip	Homo sapiens
+SEPTIN10	SEPTIN8	anti tag coip	Homo sapiens
+RBMS2	RBMS1	anti tag coip	Homo sapiens
+GSTM2	GSTM3	anti tag coip	Homo sapiens
+GSTM2	GSTM3	anti tag coip	Homo sapiens
+GSTM3	GSTM2	anti tag coip	Homo sapiens
+GSTM2	GSTM3	anti tag coip	Homo sapiens
+HLA-C	HLA-F	anti tag coip	Homo sapiens
+MTMR2	MTMR1	anti tag coip	Homo sapiens
+MTMR1	MTMR2	anti tag coip	Homo sapiens
+MTMR2	MTMR1	anti tag coip	Homo sapiens
+TLE3	TLE2	anti tag coip	Homo sapiens
+TLE2	TLE3	tap	Homo sapiens
+TLE3	TLE2	anti tag coip	Homo sapiens
+TLE2	TLE3	anti tag coip	Homo sapiens
+CRMP1	DPYSL2	two hybrid array	Homo sapiens
+CRMP1	DPYSL2	2 hybrid	Homo sapiens
+CRMP1	DPYSL2	two hybrid array	Homo sapiens
+CRMP1	DPYSL2	validated two hybrid	Homo sapiens
+DPYSL2	CRMP1	two hybrid prey pooling approach	Homo sapiens
+DPYSL2	CRMP1	two hybrid array	Homo sapiens
+VDAC1	VDAC3	crosslink	Homo sapiens
+VDAC1	VDAC3	crosslink	Homo sapiens
+CTDSP1	CTDSPL	anti tag coip	Homo sapiens
+PFKL	PFKP	anti tag coip	Homo sapiens
+PFKL	PFKP	anti tag coip	Homo sapiens
+SERPINB6	SERPINB8	anti tag coip	Homo sapiens
+SERPINB6	SERPINB8	anti tag coip	Homo sapiens
+PFKFB3	PFKFB2	anti tag coip	Homo sapiens
+PFKFB3	PFKFB2	anti tag coip	Homo sapiens
+RPRD1B	RPRD1A	tap	Homo sapiens
+RPRD1B	RPRD1A	anti tag coip	Homo sapiens
+RPRD1A	RPRD1B	validated two hybrid	Homo sapiens
+RPRD1B	RPRD1A	two hybrid array	Homo sapiens
+RPRD1B	RPRD1A	two hybrid prey pooling approach	Homo sapiens
+KATNAL1	KATNA1	tap	Homo sapiens
+KATNA1	KATNAL1	tap	Homo sapiens
+MAP4K3	MAP4K5	anti tag coip	Homo sapiens
+MAP4K3	MAP4K5	pull down	Homo sapiens
+MAP4K3	MAP4K5	anti tag coip	Homo sapiens
+BTBD3	BTBD6	two hybrid prey pooling approach	Homo sapiens
+BTBD6	BTBD3	validated two hybrid	Homo sapiens
+BTBD3	BTBD6	two hybrid array	Homo sapiens
+KLC1	KLC4	anti tag coip	Homo sapiens
+KLC1	KLC4	anti tag coip	Homo sapiens
+KLC1	KLC4	anti tag coip	Homo sapiens
+PTPRS	PTPRF	proximity-dependent biotin identification	Homo sapiens
+KLC1	KLC2	anti tag coip	Homo sapiens
+PRKAR2B	PRKAR2A	anti tag coip	Homo sapiens
+PDK3	PDK2	anti tag coip	Homo sapiens
+PDK2	PDK3	pull down	Homo sapiens
+PDK3	PDK2	anti tag coip	Homo sapiens
+ALDH2	ALDH1A1	two hybrid array	Homo sapiens
+ALDH1A1	ALDH2	2 hybrid	Homo sapiens
+MKNK1	MKNK2	pull down	Homo sapiens
+MAPKAPK3	MAPKAPK2	pull down	Homo sapiens
+MAPKAPK2	MAPKAPK3	anti tag coip	Homo sapiens
+MAPKAPK2	MAPKAPK3	anti tag coip	Homo sapiens
+BTN3A2	BTN3A1	anti tag coip	Homo sapiens
+BTN3A2	BTN3A1	anti tag coip	Homo sapiens
+BTN3A2	BTN3A1	anti tag coip	Homo sapiens
+BTN3A2	BTN3A1	confocal microscopy	Homo sapiens
+BTN3A2	BTN3A1	anti tag coip	Homo sapiens
+BTN3A2	BTN3A1	anti tag coip	Homo sapiens
+DOCK7	DOCK6	anti tag coip	Homo sapiens
+DOCK7	DOCK6	anti tag coip	Homo sapiens
+KCTD13	KCTD10	validated two hybrid	Homo sapiens
+KCTD10	KCTD13	two hybrid prey pooling approach	Homo sapiens
+KCTD10	KCTD13	two hybrid array	Homo sapiens
+KCTD13	KCTD10	anti tag coip	Homo sapiens
+KCTD13	KCTD10	anti tag coip	Homo sapiens
+KCTD13	KCTD10	anti tag coip	Homo sapiens
+HPRT1	PRTFDC1	anti tag coip	Homo sapiens
+HPRT1	PRTFDC1	two hybrid bait and prey pooling approach	Homo sapiens
+HPRT1	PRTFDC1	two hybrid array	Homo sapiens
+HPRT1	PRTFDC1	validated two hybrid	Homo sapiens
+PRTFDC1	HPRT1	two hybrid array	Homo sapiens
+PRTFDC1	HPRT1	validated two hybrid	Homo sapiens
+HPRT1	PRTFDC1	two hybrid prey pooling approach	Homo sapiens
+HPRT1	PRTFDC1	two hybrid array	Homo sapiens
+HPRT1	PRTFDC1	validated two hybrid	Homo sapiens
+HPRT1	PRTFDC1	two hybrid prey pooling approach	Homo sapiens
+PRTFDC1	HPRT1	two hybrid array	Homo sapiens
+HPRT1	PRTFDC1	anti tag coip	Homo sapiens
+HPRT1	PRTFDC1	two hybrid pooling	Homo sapiens
+RAB8B	RAB13	anti tag coip	Homo sapiens
+RAB8B	RAB13	anti tag coip	Homo sapiens
+G3BP2	G3BP1	anti tag coip	Homo sapiens
+G3BP1	G3BP2	tap	Homo sapiens
+MARK2	MARK3	anti tag coip	Homo sapiens
+MAP3K2	MAP3K3	anti tag coip	Homo sapiens
+MAP3K3	MAP3K2	tap	Homo sapiens
+MAPRE1	MAPRE3	anti tag coip	Homo sapiens
+MAPRE1	MAPRE3	bret	Homo sapiens
+MAPRE1	MAPRE3	bret	Homo sapiens
+CDK18	CDK17	anti tag coip	Homo sapiens
+CDK18	CDK17	anti tag coip	Homo sapiens
+PFKFB3	PFKFB4	anti tag coip	Homo sapiens
+PFKFB3	PFKFB4	anti tag coip	Homo sapiens
+TOR1A	TOR1B	anti tag coip	Homo sapiens
+TRIM2	TRIM3	anti tag coip	Homo sapiens
+TRIM3	TRIM2	validated two hybrid	Homo sapiens
+TRIM2	TRIM3	two hybrid prey pooling approach	Homo sapiens
+TRIM2	TRIM3	two hybrid array	Homo sapiens
+ANKRD44	ANKRD28	anti tag coip	Homo sapiens
+ANKRD28	ANKRD44	proximity-dependent biotin identification	Homo sapiens
+SMARCD1	SMARCD2	anti tag coip	Homo sapiens
+ITPR3	ITPR2	anti tag coip	Homo sapiens
+TCEA1	TCEA2	anti tag coip	Homo sapiens
+CORO1A	CORO1B	anti tag coip	Homo sapiens
+TNIK	MINK1	pull down	Homo sapiens
+NAP1L4	NAP1L1	tap	Homo sapiens
+NAP1L1	NAP1L4	anti tag coip	Homo sapiens
+PFKFB4	PFKFB2	anti tag coip	Homo sapiens
+ROCK2	ROCK1	anti tag coip	Homo sapiens
+PMM1	PMM2	anti tag coip	Homo sapiens
+PMM1	PMM2	anti tag coip	Homo sapiens
+PMM1	PMM2	anti tag coip	Homo sapiens
+AGAP1	AGAP3	anti tag coip	Homo sapiens
+AGAP3	AGAP1	anti tag coip	Homo sapiens
+MBNL1	MBNL2	anti tag coip	Homo sapiens
+PRKD2	PRKD3	anti tag coip	Homo sapiens
+PRKD3	PRKD2	pull down	Homo sapiens
+PRKD2	PRKD3	pull down	Homo sapiens
+PRKD2	PRKD3	anti tag coip	Homo sapiens
+PRKD3	PRKD2	anti tag coip	Homo sapiens
+MAPK12	MAPK13	anti tag coip	Homo sapiens
+MAPK12	MAPK13	pull down	Homo sapiens
+MAPK12	MAPK13	anti tag coip	Homo sapiens
+MAPK12	MAPK13	anti tag coip	Homo sapiens
+DOCK5	DOCK1	anti tag coip	Homo sapiens
+DOCK1	DOCK5	anti tag coip	Homo sapiens
+DOCK5	DOCK1	anti tag coip	Homo sapiens
+SAP30	SAP30L	anti tag coip	Homo sapiens
+TEAD2	TEAD1	anti tag coip	Homo sapiens
+RAPGEF6	RAPGEF2	anti tag coip	Homo sapiens
+RABGAP1	RABGAP1L	anti tag coip	Homo sapiens
+RABGAP1	RABGAP1L	anti tag coip	Homo sapiens
+RABGAP1	RABGAP1L	anti tag coip	Homo sapiens
+GNA13	GNA12	anti tag coip	Homo sapiens
+GSTO2	GSTO1	anti tag coip	Homo sapiens
+RANBP9	RANBP10	socioaffinity inference	Homo sapiens
+RANBP10	RANBP9	tap	Homo sapiens
+RANBP9	RANBP10	tap	Homo sapiens
+TPST2	TPST1	anti tag coip	Homo sapiens
+TPST2	TPST1	anti tag coip	Homo sapiens
+BMI1	PCGF2	cosedimentation	Homo sapiens
+BMI1	PCGF2	molecular sieving	Homo sapiens
+PCGF2	BMI1	anti tag coip	Homo sapiens
+STRN3	STRN	proximity-dependent biotin identification	Homo sapiens
+STRN	STRN3	anti tag coip	Homo sapiens
+STRN3	STRN	anti tag coip	Homo sapiens
+STRN	STRN3	anti tag coip	Homo sapiens
+STRN3	STRN	anti tag coip	Homo sapiens
+STRN3	STRN	anti tag coip	Homo sapiens
+STRN3	STRN	anti tag coip	Homo sapiens
+STRN	STRN3	anti tag coip	Homo sapiens
+STRN	STRN3	anti bait coip	Homo sapiens
+STRN3	STRN	anti bait coip	Homo sapiens
+STRN	STRN3	anti tag coip	Homo sapiens
+STRN	STRN3	anti tag coip	Homo sapiens
+STRN	STRN3	anti tag coip	Homo sapiens
+CORO1A	CORO1C	anti tag coip	Homo sapiens
+HLA-E	HLA-F	anti tag coip	Homo sapiens
+HLA-F	HLA-E	anti bait coip	Homo sapiens
+HLA-F	HLA-E	spr	Homo sapiens
+HLA-E	HLA-F	anti tag coip	Homo sapiens
+CNN2	CNN3	anti tag coip	Homo sapiens
+CNN2	CNN3	anti tag coip	Homo sapiens
+CNN2	CNN3	anti tag coip	Homo sapiens
+SLC25A25	SLC25A23	anti tag coip	Homo sapiens
+SLC25A25	SLC25A23	anti tag coip	Homo sapiens
+SLC25A25	SLC25A23	anti tag coip	Homo sapiens
+MTHFD2	MTHFD2L	anti tag coip	Homo sapiens
+MTHFD2	MTHFD2L	anti tag coip	Homo sapiens
+MTHFD2L	MTHFD2	anti tag coip	Homo sapiens
+TBC1D9	TBC1D9B	anti tag coip	Homo sapiens
+TBC1D9	TBC1D9B	anti tag coip	Homo sapiens
+CTDSP2	CTDSPL	anti tag coip	Homo sapiens
+PSEN1	PSEN2	two hybrid array	Homo sapiens
+STX2	STX1A	validated two hybrid	Homo sapiens
+PIP4K2A	PIP4K2C	anti tag coip	Homo sapiens
+NME3	NME1	anti tag coip	Homo sapiens
+ATP11A	ATP11C	anti tag coip	Homo sapiens
+FERMT1	FERMT2	anti tag coip	Homo sapiens
+FERMT1	FERMT2	anti tag coip	Homo sapiens
+PTPRA	PTPRE	anti tag coip	Homo sapiens
+PTPRA	PTPRE	pull down	Homo sapiens
+PTPRA	PTPRE	anti tag coip	Homo sapiens
+PTPRA	PTPRE	anti tag coip	Homo sapiens
+CHMP4A	CHMP4B	2 hybrid	Homo sapiens
+CHMP4A	CHMP4B	2 hybrid	Homo sapiens
+CHMP4A	CHMP4B	validated two hybrid	Homo sapiens
+CHMP4B	CHMP4A	2 hybrid	Homo sapiens
+CHMP4B	CHMP4A	2 hybrid	Homo sapiens
+CHMP4B	CHMP4A	two hybrid prey pooling approach	Homo sapiens
+CHMP4B	CHMP4A	two hybrid array	Homo sapiens
+NECAP2	NECAP1	anti tag coip	Homo sapiens
+NECAP2	NECAP1	anti tag coip	Homo sapiens
+CAP1	CAP2	anti tag coip	Homo sapiens
+CAP1	CAP2	anti tag coip	Homo sapiens
+KIF3B	KIF3C	socioaffinity inference	Homo sapiens
+MFN1	MFN2	anti tag coip	Homo sapiens
+MFN1	MFN2	anti tag coip	Homo sapiens
+MFN1	MFN2	anti tag coip	Homo sapiens
+MFN2	MFN1	anti tag coip	Homo sapiens
+MFN1	MFN2	anti tag coip	Homo sapiens
+KCTD13	TNFAIP1	anti tag coip	Homo sapiens
+KCTD13	TNFAIP1	anti tag coip	Homo sapiens
+KCTD13	TNFAIP1	two hybrid prey pooling approach	Homo sapiens
+TNFAIP1	KCTD13	validated two hybrid	Homo sapiens
+KCTD13	TNFAIP1	two hybrid array	Homo sapiens
+TNFAIP1	KCTD13	validated two hybrid	Homo sapiens
+TNFAIP1	KCTD13	validated two hybrid	Homo sapiens
+KCTD13	TNFAIP1	two hybrid prey pooling approach	Homo sapiens
+TNFAIP1	KCTD13	two hybrid prey pooling approach	Homo sapiens
+TNFAIP1	KCTD13	two hybrid array	Homo sapiens
+KCTD13	TNFAIP1	two hybrid array	Homo sapiens
+TNFAIP1	KCTD13	anti tag coip	Homo sapiens
+KCTD13	TNFAIP1	anti tag coip	Homo sapiens
+SAMD4B	SAMD4A	anti tag coip	Homo sapiens
+SAMD4B	SAMD4A	anti tag coip	Homo sapiens
+FADS3	FADS2	anti tag coip	Homo sapiens
+CAPN1	CAPN2	anti tag coip	Homo sapiens
+PAFAH1B2	PAFAH1B3	validated two hybrid	Homo sapiens
+PAFAH1B2	PAFAH1B3	two hybrid prey pooling approach	Homo sapiens
+PAFAH1B2	PAFAH1B3	two hybrid array	Homo sapiens
+PAFAH1B3	PAFAH1B2	anti tag coip	Homo sapiens
+PAFAH1B2	PAFAH1B3	anti tag coip	Homo sapiens
+PAFAH1B2	PAFAH1B3	two hybrid pooling	Homo sapiens
+JRKL	TIGD2	anti tag coip	Homo sapiens
+MAPK12	MAPK11	pull down	Homo sapiens
+CDK16	CDK18	anti tag coip	Homo sapiens
+MEF2A	MEF2C	tap	Homo sapiens
+MEF2A	MEF2C	tap	Homo sapiens
+MEF2A	MEF2C	anti tag coip	Homo sapiens
+SH3GLB1	SH3GLB2	anti tag coip	Homo sapiens
+SH3GLB1	SH3GLB2	anti tag coip	Homo sapiens
+SH3GLB1	SH3GLB2	anti tag coip	Homo sapiens
+SH3GLB1	SH3GLB2	2h fragment pooling	Homo sapiens
+SH3GLB1	SH3GLB2	validated two hybrid	Homo sapiens
+SH3GLB1	SH3GLB2	split luciferase complementation	Homo sapiens
+SH3GLB2	SH3GLB1	bfg-2h	Homo sapiens
+SH3GLB1	SH3GLB2	bfg-2h	Homo sapiens
+SH3GLB1	SH3GLB2	2 hybrid	Homo sapiens
+SH3GLB2	SH3GLB1	mappit	Homo sapiens
+SH3GLB1	SH3GLB2	two hybrid prey pooling approach	Homo sapiens
+SH3GLB1	SH3GLB2	two hybrid array	Homo sapiens
+SH3GLB1	SH3GLB2	validated two hybrid	Homo sapiens
+SHMT1	SHMT2	anti tag coip	Homo sapiens
+SHMT1	SHMT2	anti tag coip	Homo sapiens
+SHMT1	SHMT2	anti tag coip	Homo sapiens
+SDF2	SDF2L1	anti tag coip	Homo sapiens
+STX6	STX10	anti tag coip	Homo sapiens
+TEAD4	TEAD2	anti tag coip	Homo sapiens
+TEAD4	TEAD2	anti tag coip	Homo sapiens
+TBC1D22B	TBC1D22A	anti tag coip	Homo sapiens
+TBC1D22B	TBC1D22A	anti tag coip	Homo sapiens
+PIK3R3	PIK3R1	anti tag coip	Homo sapiens
+EML1	EML2	anti tag coip	Homo sapiens
+CDC42BPB	CDC42BPA	2h fragment pooling	Homo sapiens
+RNF5	RNF185	validated two hybrid	Homo sapiens
+RNF5	RNF185	two hybrid prey pooling approach	Homo sapiens
+RNF5	RNF185	two hybrid array	Homo sapiens
+ATL2	ATL3	anti tag coip	Homo sapiens
+ATL2	ATL3	anti tag coip	Homo sapiens
+ATL3	ATL2	anti tag coip	Homo sapiens
+ATL3	ATL2	anti tag coip	Homo sapiens
+PDE4D	PDE4A	anti tag coip	Homo sapiens
+FAM168B	FAM168A	validated two hybrid	Homo sapiens
+FAM168A	FAM168B	two hybrid array	Homo sapiens
+FAM168A	FAM168B	two hybrid prey pooling approach	Homo sapiens
+PRDX4	PRDX2	2 hybrid	Homo sapiens
+WWP2	WWP1	anti tag coip	Homo sapiens
+MAFG	MAFF	fret	Homo sapiens
+MAFF	MAFG	fret	Homo sapiens
+USP13	USP5	anti tag coip	Homo sapiens
+SMARCC2	SMARCC1	anti tag coip	Homo sapiens
+SMARCC1	SMARCC2	tap	Homo sapiens
+BRD3	BRD2	anti tag coip	Homo sapiens
+NT5DC3	NT5DC2	anti tag coip	Homo sapiens
+NT5DC3	NT5DC2	anti tag coip	Homo sapiens
+SLC20A1	SLC20A2	anti tag coip	Homo sapiens
+SLC20A1	SLC20A2	anti tag coip	Homo sapiens
+CTDSP1	CTDSP2	anti tag coip	Homo sapiens
+DVL1	DVL2	anti bait coip	Homo sapiens
+DVL1	DVL2	anti bait coip	Homo sapiens
+NFIB	NFIC	proximity-dependent biotin identification	Homo sapiens
+NFIC	NFIB	proximity-dependent biotin identification	Homo sapiens
+NFIB	NFIC	affinity chrom	Homo sapiens
+NFIC	NFIB	affinity chrom	Homo sapiens
+TOP1	TOP1MT	anti tag coip	Homo sapiens
+SATB1	SATB2	tap	Homo sapiens
+SATB2	SATB1	anti tag coip	Homo sapiens
+SATB2	SATB1	anti tag coip	Homo sapiens
+P4HA1	P4HA2	crosslink	Homo sapiens
+CBX5	CBX3	tap	Homo sapiens
+CDK5	CDK3	anti tag coip	Homo sapiens
+SRSF6	SRSF4	two hybrid array	Homo sapiens
+SRSF6	SRSF4	anti tag coip	Homo sapiens
+NFIC	NFIX	proximity-dependent biotin identification	Homo sapiens
+NFIX	NFIC	proximity-dependent biotin identification	Homo sapiens
+NFIX	NFIC	affinity chrom	Homo sapiens
+NFIC	NFIX	affinity chrom	Homo sapiens
+SRPK1	SRPK2	density sedimentation	Homo sapiens
+SRPK2	SRPK1	density sedimentation	Homo sapiens
+PRDX1	PRDX4	2 hybrid	Homo sapiens
+NEDD4	NEDD4L	anti tag coip	Homo sapiens
+NRBP2	NRBP1	pull down	Homo sapiens
+NRBP1	NRBP2	anti tag coip	Homo sapiens
+SBF2	SBF1	proximity-dependent biotin identification	Homo sapiens
+SBF2	SBF1	anti tag coip	Homo sapiens
+RING1	RNF2	tap	Homo sapiens
+DPP9	DPP8	anti tag coip	Homo sapiens
+DPP8	DPP9	anti tag coip	Homo sapiens
+ACAP2	ACAP3	anti tag coip	Homo sapiens
+ACAP3	ACAP2	anti tag coip	Homo sapiens
+ACAP3	ACAP2	anti tag coip	Homo sapiens
+ACAP3	ACAP2	anti tag coip	Homo sapiens
+LRRC8B	LRRC8A	anti tag coip	Homo sapiens
+LRRC8A	LRRC8B	anti tag coip	Homo sapiens
+LRRC8A	LRRC8B	anti tag coip	Homo sapiens
+LRRC8B	LRRC8A	anti tag coip	Homo sapiens
+PLOD1	PLOD2	anti tag coip	Homo sapiens
+PLOD1	PLOD2	anti tag coip	Homo sapiens
+PLOD1	PLOD2	anti tag coip	Homo sapiens
+PLOD1	PLOD2	anti tag coip	Homo sapiens
+YWHAE	SFN	anti tag coip	Homo sapiens
+YWHAE	SFN	anti tag coip	Homo sapiens
+ATF1	CREB1	tap	Homo sapiens
+CREB1	ATF1	peptide array	Homo sapiens
+ATF1	CREB1	peptide array	Homo sapiens
+CREB1	ATF1	pull down	Homo sapiens
+CREB1	ATF1	tap	Homo sapiens
+CREB1	ATF1	tap	Homo sapiens
+BNIP3	BNIP3L	bfg-2h	Homo sapiens
+BNIP3	BNIP3L	validated two hybrid	Homo sapiens
+BNIP3L	BNIP3	bfg-2h	Homo sapiens
+BNIP3	BNIP3L	split luciferase complementation	Homo sapiens
+BNIP3	BNIP3L	split luciferase complementation	Homo sapiens
+BNIP3	BNIP3L	anti tag coip	Homo sapiens
+BNIP3L	BNIP3	tap	Homo sapiens
+BNIP3	BNIP3L	two hybrid array	Homo sapiens
+BNIP3L	BNIP3	two hybrid prey pooling approach	Homo sapiens
+BNIP3	BNIP3L	validated two hybrid	Homo sapiens
+BNIP3L	BNIP3	two hybrid array	Homo sapiens
+BNIP3L	BNIP3	validated two hybrid	Homo sapiens
+BNIP3L	BNIP3	two hybrid prey pooling approach	Homo sapiens
+BNIP3L	BNIP3	2 hybrid	Homo sapiens
+BNIP3L	BNIP3	2 hybrid	Homo sapiens
+BNIP3	BNIP3L	2 hybrid	Homo sapiens
+BNIP3L	BNIP3	beta galactosidase	Homo sapiens
+BNIP3L	BNIP3	anti tag coip	Homo sapiens
+BNIP3	BNIP3L	2 hybrid	Homo sapiens
+BNIP3L	BNIP3	two hybrid array	Homo sapiens
+BNIP3L	BNIP3	two hybrid pooling	Homo sapiens
+BNIP3	BNIP3L	anti tag coip	Homo sapiens
+BNIP3	BNIP3L	anti tag coip	Homo sapiens
+BNIP3	BNIP3L	two hybrid pooling	Homo sapiens
+DNAJB4	DNAJB5	anti tag coip	Homo sapiens
+DNAJB4	DNAJB5	anti tag coip	Homo sapiens
+DNAJB4	DNAJB5	anti tag coip	Homo sapiens
+NUCB1	NUCB2	anti tag coip	Homo sapiens
+NUCB1	NUCB2	anti tag coip	Homo sapiens
+MAPK8IP3	SPAG9	anti tag coip	Homo sapiens
+PIP5K1A	PIP5K1C	anti tag coip	Homo sapiens
+HOOK3	HOOK1	anti tag coip	Homo sapiens
+HOOK3	HOOK1	validated two hybrid	Homo sapiens
+HOOK3	HOOK1	two hybrid prey pooling approach	Homo sapiens
+CTBP1	CTBP2	anti tag coip	Homo sapiens
+CTBP1	CTBP2	two hybrid array	Homo sapiens
+RUFY1	RUFY2	anti tag coip	Homo sapiens
+RUFY2	RUFY1	anti tag coip	Homo sapiens
+RUFY1	RUFY2	anti tag coip	Homo sapiens
+RUFY1	RUFY2	anti tag coip	Homo sapiens
+RUFY2	RUFY1	anti tag coip	Homo sapiens
+ARHGAP26	ARHGAP10	anti tag coip	Homo sapiens
+ARHGAP26	ARHGAP10	socioaffinity inference	Homo sapiens
+ARHGAP26	ARHGAP10	anti tag coip	Homo sapiens
+ARHGAP26	ARHGAP10	anti tag coip	Homo sapiens
+RHOT2	RHOT1	anti tag coip	Homo sapiens
+RHOT2	RHOT1	anti tag coip	Homo sapiens
+SLC1A5	SLC1A4	anti tag coip	Homo sapiens
+MOAP1	PNMA1	anti tag coip	Homo sapiens
+MOAP1	PNMA1	anti tag coip	Homo sapiens
+PNMA1	MOAP1	anti tag coip	Homo sapiens
+STMN1	STMN3	anti tag coip	Homo sapiens
+NFIB	NFIX	two hybrid array	Homo sapiens
+NFIB	NFIX	validated two hybrid	Homo sapiens
+NFIB	NFIX	two hybrid prey pooling approach	Homo sapiens
+NFIB	NFIX	proximity-dependent biotin identification	Homo sapiens
+NFIX	NFIB	proximity-dependent biotin identification	Homo sapiens
+NFIB	NFIX	affinity chrom	Homo sapiens
+NFIX	NFIB	affinity chrom	Homo sapiens
+TSPAN5	TSPAN14	anti tag coip	Homo sapiens
+RNF20	RNF40	molecular sieving	Homo sapiens
+CARD16	CASP1	anti tag coip	Homo sapiens
+NONO	PSPC1	anti tag coip	Homo sapiens
+NONO	PSPC1	validated two hybrid	Homo sapiens
+PSPC1	NONO	two hybrid prey pooling approach	Homo sapiens
+PSPC1	NONO	two hybrid prey pooling approach	Homo sapiens
+PSPC1	NONO	validated two hybrid	Homo sapiens
+PSPC1	NONO	two hybrid array	Homo sapiens
+NONO	PSPC1	two hybrid array	Homo sapiens
+PSPC1	NONO	two hybrid array	Homo sapiens
+PSPC1	NONO	two hybrid prey pooling approach	Homo sapiens
+TRIB2	TRIB1	anti tag coip	Homo sapiens
+TRIB2	TRIB1	anti tag coip	Homo sapiens
+KCTD17	KCTD5	anti tag coip	Homo sapiens
+KCTD17	KCTD5	anti tag coip	Homo sapiens
+PLOD3	PLOD2	anti tag coip	Homo sapiens
+PRDX3	PRDX2	socioaffinity inference	Homo sapiens
+PRDX2	PRDX3	tap	Homo sapiens
+RBM39	RBM23	2 hybrid	Homo sapiens
+LMNB2	LMNB1	crosslink	Homo sapiens
+LMNB1	LMNB2	two hybrid prey pooling approach	Homo sapiens
+LMNB1	LMNB2	validated two hybrid	Homo sapiens
+LMNB1	LMNB2	two hybrid array	Homo sapiens
+EAF1	EAF2	anti tag coip	Homo sapiens
+STT3B	STT3A	anti tag coip	Homo sapiens
+CLTA	CLTB	socioaffinity inference	Homo sapiens
+CLTB	CLTA	anti tag coip	Homo sapiens
+CLTA	CLTB	anti tag coip	Homo sapiens
+FMR1	FXR1	2h fragment pooling	Homo sapiens
+FNBP1L	FNBP1	anti tag coip	Homo sapiens
+FNBP1	FNBP1L	anti tag coip	Homo sapiens
+MTSS2	MTSS1	anti tag coip	Homo sapiens
+COPS7B	COPS7A	anti tag coip	Homo sapiens
+PIAS2	PIAS1	pla	Homo sapiens
+STAM	STAM2	anti tag coip	Homo sapiens
+STAM2	STAM	anti tag coip	Homo sapiens
+STAM	STAM2	anti tag coip	Homo sapiens
+ARFGAP2	ARFGAP3	anti tag coip	Homo sapiens
+PSMB9	PSMB6	anti tag coip	Homo sapiens
+TPD52	TPD52L1	2 hybrid	Homo sapiens
+TPD52L1	TPD52	2 hybrid	Homo sapiens
+TPD52L1	TPD52	2 hybrid	Homo sapiens
+TPD52	TPD52L1	anti tag coip	Homo sapiens
+TPD52	TPD52L1	anti tag coip	Homo sapiens
+TPD52L1	TPD52	anti tag coip	Homo sapiens
+TPD52	TPD52L1	validated two hybrid	Homo sapiens
+TPD52	TPD52L1	two hybrid prey pooling approach	Homo sapiens
+TPD52	TPD52L1	two hybrid array	Homo sapiens
+SRSF5	SRSF6	socioaffinity inference	Homo sapiens
+ARFIP2	ARFIP1	anti tag coip	Homo sapiens
+ARFIP2	ARFIP1	validated two hybrid	Homo sapiens
+ARFIP1	ARFIP2	two hybrid prey pooling approach	Homo sapiens
+ARFIP1	ARFIP2	two hybrid array	Homo sapiens
+ARFIP1	ARFIP2	anti tag coip	Homo sapiens
+ARFIP2	ARFIP1	anti tag coip	Homo sapiens
+ARFIP2	ARFIP1	anti tag coip	Homo sapiens
+ARFIP2	ARFIP1	anti tag coip	Homo sapiens
+MEF2A	MEF2D	tap	Homo sapiens
+MEF2A	MEF2D	tap	Homo sapiens
+MEF2A	MEF2D	anti tag coip	Homo sapiens
+AKIRIN2	AKIRIN1	anti tag coip	Homo sapiens
+AKIRIN2	AKIRIN1	anti tag coip	Homo sapiens
+AKIRIN2	AKIRIN1	anti tag coip	Homo sapiens
+TMEM9	TMEM9B	anti tag coip	Homo sapiens
+TMEM9	TMEM9B	anti tag coip	Homo sapiens
+FERMT1	FERMT3	anti tag coip	Homo sapiens
+FERMT1	FERMT3	anti tag coip	Homo sapiens
+DAB2IP	RASAL2	anti tag coip	Homo sapiens
+DAB2IP	RASAL2	anti tag coip	Homo sapiens
+ETNK1	ETNK2	anti tag coip	Homo sapiens
+IFIT2	IFIT3	anti tag coip	Homo sapiens
+IFIT2	IFIT3	anti tag coip	Homo sapiens
+IFIT3	IFIT2	anti tag coip	Homo sapiens
+IFIT2	IFIT3	anti tag coip	Homo sapiens
+IFIT3	IFIT2	anti tag coip	Homo sapiens
+IFIT3	IFIT2	two hybrid array	Homo sapiens
+IFIT2	IFIT3	anti tag coip	Homo sapiens
+IFIT3	IFIT2	validated two hybrid	Homo sapiens
+IFIT2	IFIT3	two hybrid array	Homo sapiens
+IFIT2	IFIT3	two hybrid prey pooling approach	Homo sapiens
+IFIT2	IFIT3	two hybrid pooling	Homo sapiens
+FUBP3	FUBP1	anti tag coip	Homo sapiens
+CHCHD10	CHCHD2	anti tag coip	Homo sapiens
+CHCHD2	CHCHD10	anti tag coip	Homo sapiens
+CHCHD10	CHCHD2	anti tag coip	Homo sapiens
+CHCHD2	CHCHD10	anti tag coip	Homo sapiens
+CHCHD10	CHCHD2	anti tag coip	Homo sapiens
+CHCHD2	CHCHD10	anti tag coip	Homo sapiens
+CHCHD10	CHCHD2	anti tag coip	Homo sapiens
+FTL	FTH1	two hybrid prey pooling approach	Homo sapiens
+FTL	FTH1	two hybrid array	Homo sapiens
+DNAJA4	DNAJA2	anti tag coip	Homo sapiens
+DNAJA4	DNAJA2	lumier	Homo sapiens
+TCEA1	TCEA3	anti tag coip	Homo sapiens
+OSBP	OSBP2	anti tag coip	Homo sapiens
+OSBPL5	OSBPL8	anti tag coip	Homo sapiens
+OSBPL5	OSBPL8	anti tag coip	Homo sapiens
+OSBPL8	OSBPL5	anti tag coip	Homo sapiens
+OSBPL5	OSBPL8	anti tag coip	Homo sapiens
+OSBPL8	OSBPL5	anti tag coip	Homo sapiens
+OSBPL5	OSBPL8	anti tag coip	Homo sapiens
+REEP5	REEP6	anti tag coip	Homo sapiens
+REEP5	REEP6	anti tag coip	Homo sapiens
+STAMBPL1	STAMBP	anti tag coip	Homo sapiens
+STAMBPL1	STAMBP	anti tag coip	Homo sapiens
+UNC119	UNC119B	anti tag coip	Homo sapiens
+UNC119	UNC119B	anti tag coip	Homo sapiens
+UNC119	UNC119B	anti tag coip	Homo sapiens
+TSPYL1	TSPYL4	anti tag coip	Homo sapiens
+TSPYL1	TSPYL4	anti tag coip	Homo sapiens
+SNTB2	SNTB1	anti tag coip	Homo sapiens
+SNTB2	SNTB1	anti tag coip	Homo sapiens
+SNTB2	SNTB1	anti tag coip	Homo sapiens
+PACSIN3	PACSIN2	anti tag coip	Homo sapiens
+PACSIN2	PACSIN3	two hybrid array	Homo sapiens
+PACSIN3	PACSIN2	validated two hybrid	Homo sapiens
+PACSIN2	PACSIN3	two hybrid prey pooling approach	Homo sapiens
+PCBD1	PCBD2	two hybrid array	Homo sapiens
+PCBD1	PCBD2	two hybrid array	Homo sapiens
+PHTF2	PHTF1	anti tag coip	Homo sapiens
+PHTF2	PHTF1	anti tag coip	Homo sapiens
+LLGL2	LLGL1	anti tag coip	Homo sapiens
+LLGL1	LLGL2	anti tag coip	Homo sapiens
+SCAMP1	SCAMP3	anti tag coip	Homo sapiens
+TMEM63A	TMEM63B	anti tag coip	Homo sapiens
+SCAMP2	SCAMP1	anti tag coip	Homo sapiens
+MAPRE3	MAPRE2	two hybrid prey pooling approach	Homo sapiens
+MAPRE2	MAPRE3	validated two hybrid	Homo sapiens
+MAPRE2	MAPRE3	complementation	Homo sapiens
+MAPRE2	MAPRE3	mappit	Homo sapiens
+MAPRE3	MAPRE2	two hybrid array	Homo sapiens
+HEXA	HEXB	anti tag coip	Homo sapiens
+HEXB	HEXA	x-ray diffraction	Homo sapiens
+HEXA	HEXB	x-ray diffraction	Homo sapiens
+HEXA	HEXB	anti tag coip	Homo sapiens
+HEXA	HEXB	anti tag coip	Homo sapiens
+OSBPL11	OSBPL10	anti tag coip	Homo sapiens
+LRRC8A	LRRC8D	anti tag coip	Homo sapiens
+LRRC8A	LRRC8D	anti tag coip	Homo sapiens
+UGGT2	UGGT1	crosslink	Homo sapiens
+LARP1B	LARP1	anti tag coip	Homo sapiens
+LARP1B	LARP1	anti tag coip	Homo sapiens
+FERMT3	FERMT2	anti tag coip	Homo sapiens
+FERMT3	FERMT2	anti tag coip	Homo sapiens
+TAOK2	TAOK1	pull down	Homo sapiens
+REEP3	REEP4	anti tag coip	Homo sapiens
+REEP3	REEP4	anti tag coip	Homo sapiens
+STRN3	STRN4	proximity-dependent biotin identification	Homo sapiens
+STRN3	STRN4	anti tag coip	Homo sapiens
+STRN3	STRN4	anti tag coip	Homo sapiens
+POC1A	POC1B	proximity-dependent biotin identification	Homo sapiens
+POC1B	POC1A	proximity-dependent biotin identification	Homo sapiens
+POC1A	POC1B	anti tag coip	Homo sapiens
+BPGM	PGAM1	anti tag coip	Homo sapiens
+BPGM	PGAM1	anti tag coip	Homo sapiens
+NDRG2	NDRG1	anti tag coip	Homo sapiens
+FUCA1	FUCA2	anti tag coip	Homo sapiens
+DYNLT1	DYNLT3	socioaffinity inference	Homo sapiens
+DYNLT1	DYNLT3	tap	Homo sapiens
+DYNLT3	DYNLT1	validated two hybrid	Homo sapiens
+DYNLT3	DYNLT1	two hybrid prey pooling approach	Homo sapiens
+DYNLT3	DYNLT1	two hybrid array	Homo sapiens
+CACNB1	CACNB3	anti tag coip	Homo sapiens
+CACNB1	CACNB3	anti tag coip	Homo sapiens
+CACNB1	CACNB3	anti tag coip	Homo sapiens
+KIF2A	KIF2C	anti tag coip	Homo sapiens
+DOCK10	DOCK9	anti tag coip	Homo sapiens
+DOCK10	DOCK9	anti tag coip	Homo sapiens
+ATP6V0A2	ATP6V0A1	anti tag coip	Homo sapiens
+S100A1	S100P	2 hybrid	Homo sapiens
+S100A1	S100P	2 hybrid	Homo sapiens
+S100A1	S100P	spr	Homo sapiens
+S100A1	S100P	2 hybrid	Homo sapiens
+S100P	S100A1	confocal microscopy	Homo sapiens
+S100P	S100A1	fret	Homo sapiens
+ATG4B	ATG4A	proximity-dependent biotin identification	Homo sapiens
+REEP2	REEP4	anti tag coip	Homo sapiens
+REEP4	REEP2	anti tag coip	Homo sapiens
+REEP2	REEP4	anti tag coip	Homo sapiens
+MAPRE1	MAPRE2	anti tag coip	Homo sapiens
+FAM98A	FAM98B	anti tag coip	Homo sapiens
+LSM14A	LSM14B	anti tag coip	Homo sapiens
+LSM14B	LSM14A	anti tag coip	Homo sapiens
+STX7	STX12	anti tag coip	Homo sapiens
+KHDRBS1	KHDRBS3	2h fragment pooling	Homo sapiens
+ARL2	ARL3	socioaffinity inference	Homo sapiens
+ARL3	ARL2	tap	Homo sapiens
+EFNB2	EFNB1	anti tag coip	Homo sapiens
+PRDX3	PRDX4	2 hybrid	Homo sapiens
+NUDT16L1	NUDT16	anti tag coip	Homo sapiens
+NUDT16L1	NUDT16	anti tag coip	Homo sapiens
+FUNDC2	FUNDC1	anti tag coip	Homo sapiens
+FUNDC2	FUNDC1	anti tag coip	Homo sapiens
+FUNDC2	FUNDC1	anti tag coip	Homo sapiens
+SEMA3C	SEMA3F	anti tag coip	Homo sapiens
+SCAMP2	SCAMP3	anti tag coip	Homo sapiens
+SCAMP2	SCAMP3	anti tag coip	Homo sapiens
+APPL2	APPL1	anti tag coip	Homo sapiens
+LATS1	LATS2	proximity-dependent biotin identification	Homo sapiens
+HOMER3	HOMER1	anti tag coip	Homo sapiens
+HOMER1	HOMER3	mappit	Homo sapiens
+HOMER1	HOMER3	anti tag coip	Homo sapiens
+HOMER1	HOMER3	validated two hybrid	Homo sapiens
+HOMER1	HOMER3	two hybrid prey pooling approach	Homo sapiens
+NUMB	NUMBL	anti tag coip	Homo sapiens
+NUMB	NUMBL	anti tag coip	Homo sapiens
+NUMB	NUMBL	anti tag coip	Homo sapiens
+HOMER1	HOMER2	anti tag coip	Homo sapiens
+NME3	NME4	anti tag coip	Homo sapiens
+NME4	NME3	anti tag coip	Homo sapiens
+NME4	NME3	anti tag coip	Homo sapiens
+NME3	NME4	anti tag coip	Homo sapiens
+NME3	NME4	anti tag coip	Homo sapiens
+HNRNPL	HNRNPLL	anti tag coip	Homo sapiens
+IMPA2	IMPA1	two hybrid prey pooling approach	Homo sapiens
+IMPA2	IMPA1	two hybrid array	Homo sapiens
+IMPA1	IMPA2	validated two hybrid	Homo sapiens
+IMPA1	IMPA2	anti tag coip	Homo sapiens
+IMPA2	IMPA1	two hybrid array	Homo sapiens
+IMPA2	IMPA1	two hybrid prey pooling approach	Homo sapiens
+IMPA2	IMPA1	validated two hybrid	Homo sapiens
+TCF4	TCF3	anti tag coip	Homo sapiens
+STAT3	STAT1	competition binding	Homo sapiens
+STRN	STRN4	anti tag coip	Homo sapiens
+STRN	STRN4	anti tag coip	Homo sapiens
+STRN	STRN4	anti tag coip	Homo sapiens
+STRN	STRN4	anti tag coip	Homo sapiens
+STRN4	STRN	tap	Homo sapiens
+SCRN2	SCRN1	anti tag coip	Homo sapiens
+RUFY2	RUFY3	anti tag coip	Homo sapiens
+RUFY2	RUFY3	anti tag coip	Homo sapiens
+RUFY2	RUFY3	anti tag coip	Homo sapiens
+HNRNPD	HNRNPDL	anti tag coip	Homo sapiens
+HNRNPDL	HNRNPD	crosslink	Homo sapiens
+MITF	TFE3	anti tag coip	Homo sapiens
+MITF	TFE3	anti tag coip	Homo sapiens
+MITF	TFE3	anti tag coip	Homo sapiens
+FNBP1	TRIP10	fluorescence imaging	Homo sapiens
+USF1	USF2	anti tag coip	Homo sapiens
+USF1	USF2	anti tag coip	Homo sapiens
+USF1	USF2	anti tag coip	Homo sapiens
+USF1	USF2	anti bait coip	Homo sapiens
+USF1	USF2	anti tag coip	Homo sapiens
+RAF1	BRAF	anti bait coip	Homo sapiens
+RAF1	BRAF	anti bait coip	Homo sapiens
+RAF1	BRAF	anti bait coip	Homo sapiens
+RAF1	BRAF	anti tag coip	Homo sapiens
+BRAF	RAF1	anti bait coip	Homo sapiens
+RAF1	BRAF	anti bait coip	Homo sapiens
+BRAF	RAF1	anti bait coip	Homo sapiens
+BRAF	RAF1	anti tag coip	Homo sapiens
+DDAH2	DDAH1	anti tag coip	Homo sapiens
+DDAH2	DDAH1	anti tag coip	Homo sapiens
+TXLNA	TXLNG	anti tag coip	Homo sapiens
+TXLNG	TXLNA	socioaffinity inference	Homo sapiens
+RAP1GAP	RAP1GAP2	anti tag coip	Homo sapiens
+RAP1GAP	RAP1GAP2	anti tag coip	Homo sapiens
+FXR2	FMR1	tap	Homo sapiens
+FXR2	FMR1	two hybrid pooling	Homo sapiens
+KCTD15	KCTD1	two hybrid array	Homo sapiens
+KCTD1	KCTD15	validated two hybrid	Homo sapiens
+KCTD1	KCTD15	validated two hybrid	Homo sapiens
+KCTD1	KCTD15	two hybrid array	Homo sapiens
+KCTD15	KCTD1	two hybrid prey pooling approach	Homo sapiens
+KCTD1	KCTD15	validated two hybrid	Homo sapiens
+KCTD15	KCTD1	two hybrid array	Homo sapiens
+KCTD15	KCTD1	two hybrid prey pooling approach	Homo sapiens
+KCTD1	KCTD15	two hybrid prey pooling approach	Homo sapiens
+IKBKB	CHUK	anti tag coip	Homo sapiens
+CHUK	IKBKB	pla	Homo sapiens
+AKR1A1	AKR1B1	anti tag coip	Homo sapiens
+AKR1A1	AKR1B1	anti tag coip	Homo sapiens
+SNX33	SNX18	anti tag coip	Homo sapiens
+NACC2	NACC1	anti tag coip	Homo sapiens
+TNFRSF10A	TNFRSF10B	anti tag coip	Homo sapiens
+RAB9A	RAB7A	proximity-dependent biotin identification	Homo sapiens
+CUL9	CUL7	anti tag coip	Homo sapiens
+CUL9	CUL7	anti tag coip	Homo sapiens
+APOBEC3F	APOBEC3G	anti tag coip	Homo sapiens
+LMNA	LMNB2	proximity-dependent biotin identification	Homo sapiens
+LMNA	LMNB2	pull down	Homo sapiens
+LMNA	LMNB2	proximity-dependent biotin identification	Homo sapiens
+HIP1R	HIP1	anti tag coip	Homo sapiens
+HIP1	HIP1R	anti tag coip	Homo sapiens
+HIP1R	HIP1	anti tag coip	Homo sapiens
+EML1	EML4	anti tag coip	Homo sapiens
+EML1	EML4	anti tag coip	Homo sapiens
+EML1	EML4	anti tag coip	Homo sapiens
+ELMO3	ELMO2	anti tag coip	Homo sapiens
+ELMO3	ELMO2	anti tag coip	Homo sapiens
+ELMO3	ELMO2	anti tag coip	Homo sapiens
+FNIP1	FNIP2	anti bait coip	Homo sapiens
+FNIP1	FNIP2	anti tag coip	Homo sapiens
+FNIP1	FNIP2	anti tag coip	Homo sapiens
+FNIP1	FNIP2	anti tag coip	Homo sapiens
+FNIP1	FNIP2	anti tag coip	Homo sapiens
+FNIP2	FNIP1	anti tag coip	Homo sapiens
+FNIP1	FNIP2	pull down	Homo sapiens
+TARS2	TARS3	two hybrid array	Homo sapiens
+TARS3	TARS2	validated two hybrid	Homo sapiens
+TARS2	TARS3	two hybrid prey pooling approach	Homo sapiens
+USP25	USP28	anti tag coip	Homo sapiens
+USP25	USP28	anti tag coip	Homo sapiens
+NONO	SFPQ	crosslink	Homo sapiens
+NONO	SFPQ	anti tag coip	Homo sapiens
+NONO	SFPQ	2 hybrid	Homo sapiens
+NBPF3	NBPF1	anti tag coip	Homo sapiens
+NBPF3	NBPF1	anti tag coip	Homo sapiens
+ADD1	ADD3	anti tag coip	Homo sapiens
+PSME1	PSME2	two hybrid array	Homo sapiens
+PSME1	PSME2	validated two hybrid	Homo sapiens
+PSME1	PSME2	two hybrid prey pooling approach	Homo sapiens
+PSME1	PSME2	two hybrid prey pooling approach	Homo sapiens
+PSME1	PSME2	two hybrid array	Homo sapiens
+KDM4B	KDM4A	anti tag coip	Homo sapiens
+KDM4B	KDM4A	anti tag coip	Homo sapiens
+KDM4B	KDM4A	anti tag coip	Homo sapiens
+LPIN2	LPIN1	anti tag coip	Homo sapiens
+REEP3	REEP2	anti tag coip	Homo sapiens
+APP	APLP2	anti tag coip	Homo sapiens
+APLP2	APP	anti tag coip	Homo sapiens
+BCAP31	BCAP29	anti tag coip	Homo sapiens
+BCAP31	BCAP29	crosslink	Homo sapiens
+BCAP29	BCAP31	anti tag coip	Homo sapiens
+BCAP31	BCAP29	anti tag coip	Homo sapiens
+CPEB4	CPEB2	anti tag coip	Homo sapiens
+DNAJB6	DNAJB2	anti tag coip	Homo sapiens
+DNAJB6	DNAJB2	anti tag coip	Homo sapiens
+CISD1	CISD2	anti tag coip	Homo sapiens
+CISD2	CISD1	anti tag coip	Homo sapiens
+NR1D2	NR1D1	anti tag coip	Homo sapiens
+NR1D2	NR1D1	anti tag coip	Homo sapiens
+ERAP1	ERAP2	confocal microscopy	Homo sapiens
+ERAP1	ERAP2	anti bait coip	Homo sapiens
+ERAP1	ERAP2	anti bait coip	Homo sapiens
+ERAP1	ERAP2	anti bait coip	Homo sapiens
+ERAP1	ERAP2	anti bait coip	Homo sapiens
+IDH3B	IDH3G	anti tag coip	Homo sapiens
+IDH3B	IDH3G	anti tag coip	Homo sapiens
+DENND4A	DENND4C	socioaffinity inference	Homo sapiens
+DNMT3A	DNMT3B	anti tag coip	Homo sapiens
+NDFIP2	NDFIP1	anti tag coip	Homo sapiens
+EPS15	EPS15L1	anti tag coip	Homo sapiens
+EPS15L1	EPS15	anti tag coip	Homo sapiens
+EPS15L1	EPS15	anti tag coip	Homo sapiens
+RGS20	RGS19	anti tag coip	Homo sapiens
+RGS20	RGS19	anti tag coip	Homo sapiens
+ECHDC2	AUH	anti tag coip	Homo sapiens
+ECHDC2	AUH	anti tag coip	Homo sapiens
+NSFL1C	UBXN2B	anti tag coip	Homo sapiens
+TXNRD2	TXNRD1	anti tag coip	Homo sapiens
+TXNRD2	TXNRD1	anti tag coip	Homo sapiens
+ACVR1	TGFBR1	ub reconstruction	Homo sapiens
+ACVR1	ACVR1B	anti tag coip	Homo sapiens
+LPIN3	LPIN2	anti tag coip	Homo sapiens
+LPIN3	LPIN2	anti tag coip	Homo sapiens
+LPIN3	LPIN2	anti tag coip	Homo sapiens
+LRIG1	LRIG3	anti tag coip	Homo sapiens
+LRIG1	LRIG3	anti bait coip	Homo sapiens
+LRIG1	LRIG3	anti bait coip	Homo sapiens
+LRIG1	LRIG3	anti bait coip	Homo sapiens
+LRIG1	LRIG3	anti bait coip	Homo sapiens
+LRIG1	LRIG3	anti bait coip	Homo sapiens
+LRIG1	LRIG3	anti bait coip	Homo sapiens
+LRIG1	LRIG3	anti tag coip	Homo sapiens
+LRIG1	LRIG3	anti tag coip	Homo sapiens
+LRIG1	LRIG3	anti tag coip	Homo sapiens
+SEPTIN5	SEPTIN7	2 hybrid	Homo sapiens
+SEPTIN7	SEPTIN5	anti tag coip	Homo sapiens
+SEPTIN5	SEPTIN7	2 hybrid	Homo sapiens
+SEPTIN7	SEPTIN5	anti tag coip	Homo sapiens
+SEPTIN7	SEPTIN5	anti tag coip	Homo sapiens
+SEPTIN7	SEPTIN5	anti tag coip	Homo sapiens
+PPP1R12A	PPP1R12B	pull down	Homo sapiens
+PPP1R12A	PPP1R12B	proximity-dependent biotin identification	Homo sapiens
+JUN	JUND	anti bait coip	Homo sapiens
+JUN	JUND	tap	Homo sapiens
+JUN	JUND	tap	Homo sapiens
+JUN	JUND	anti bait coip	Homo sapiens
+COL4A1	COL4A2	x-ray diffraction	Homo sapiens
+COL4A1	COL4A2	molecular sieving	Homo sapiens
+LRIG1	LRIG2	anti tag coip	Homo sapiens
+LRIG1	LRIG2	anti tag coip	Homo sapiens
+LRIG1	LRIG2	anti tag coip	Homo sapiens
+SLC35A3	SLC35A2	anti tag coip	Homo sapiens
+SLC35A2	SLC35A3	anti tag coip	Homo sapiens
+SLC35A3	SLC35A2	fret	Homo sapiens
+SLC35A2	SLC35A3	anti tag coip	Homo sapiens
+SLC35A2	SLC35A3	fret	Homo sapiens
+TRIM24	TRIM33	tap	Homo sapiens
+DIPK1A	DIPK1B	anti tag coip	Homo sapiens
+FLOT2	FLOT1	crosslink	Homo sapiens
+JUNB	JUN	anti tag coip	Homo sapiens
+JUN	JUNB	anti bait coip	Homo sapiens
+JUNB	JUN	anti tag coip	Homo sapiens
+PHLPP1	PHLPP2	anti tag coip	Homo sapiens
+PHLPP1	PHLPP2	anti tag coip	Homo sapiens
+PSMC1	PSMC4	anti tag coip	Homo sapiens
+TBC1D15	TBC1D17	anti tag coip	Homo sapiens
+TBC1D15	TBC1D17	anti tag coip	Homo sapiens
+TBC1D15	TBC1D17	anti tag coip	Homo sapiens
+TBC1D15	TBC1D17	anti tag coip	Homo sapiens
+DDHD2	SEC23IP	anti tag coip	Homo sapiens
+DDHD2	SEC23IP	anti tag coip	Homo sapiens
+TPD52	TPD52L2	2 hybrid	Homo sapiens
+TPD52	TPD52L2	2 hybrid	Homo sapiens
+TPD52L2	TPD52	2 hybrid	Homo sapiens
+TPD52	TPD52L2	2 hybrid	Homo sapiens
+TPD52	TPD52L2	anti tag coip	Homo sapiens
+TPD52L2	TPD52	anti tag coip	Homo sapiens
+TPD52	TPD52L2	anti tag coip	Homo sapiens
+TPD52	TPD52L2	anti tag coip	Homo sapiens
+TPD52L2	TPD52	anti tag coip	Homo sapiens
+SMAP1	SMAP2	validated two hybrid	Homo sapiens
+SMAP2	SMAP1	two hybrid prey pooling approach	Homo sapiens
+SMAP2	SMAP1	two hybrid array	Homo sapiens
+NUBP1	NUBP2	anti tag coip	Homo sapiens
+NUBP2	NUBP1	anti tag coip	Homo sapiens
+SCMH1	SCML2	tap	Homo sapiens
+MTMR3	MTMR4	anti tag coip	Homo sapiens
+MTMR4	MTMR3	anti tag coip	Homo sapiens
+MTMR3	MTMR4	proximity-dependent biotin identification	Homo sapiens
+MTMR4	MTMR3	proximity-dependent biotin identification	Homo sapiens
+ZNF397	ZSCAN30	anti tag coip	Homo sapiens
+ZNF397	ZSCAN30	anti tag coip	Homo sapiens
+SNTB2	SNTA1	anti tag coip	Homo sapiens
+SNTB2	SNTA1	anti tag coip	Homo sapiens
+SNTB2	SNTA1	anti tag coip	Homo sapiens
+LRRC8B	LRRC8D	anti tag coip	Homo sapiens
+LRRC8B	LRRC8D	anti tag coip	Homo sapiens
+CHD7	CHD8	bifc	Homo sapiens
+CHD8	CHD7	anti tag coip	Homo sapiens
+CHD8	CHD7	anti tag coip	Homo sapiens
+RUFY1	RUFY3	anti tag coip	Homo sapiens
+RUFY1	RUFY3	anti tag coip	Homo sapiens
+RUFY1	RUFY3	anti tag coip	Homo sapiens
+RUFY1	RUFY3	anti tag coip	Homo sapiens
+GGA2	GGA1	anti tag coip	Homo sapiens
+GGA1	GGA2	pull down	Homo sapiens
+GGA2	GGA1	pull down	Homo sapiens
+GGA1	GGA2	confocal microscopy	Homo sapiens
+GGA1	GGA2	confocal microscopy	Homo sapiens
+GGA1	GGA2	electron microscopy	Homo sapiens
+GGA1	GGA2	electron microscopy	Homo sapiens
+PPFIBP2	PPFIBP1	anti tag coip	Homo sapiens
+DGUOK	DCK	anti tag coip	Homo sapiens
+DCK	DGUOK	anti tag coip	Homo sapiens
+DCK	DGUOK	anti tag coip	Homo sapiens
+DGUOK	DCK	anti tag coip	Homo sapiens
+DCK	DGUOK	anti tag coip	Homo sapiens
+S100A4	S100A6	anti tag coip	Homo sapiens
+HMG20B	HMG20A	anti tag coip	Homo sapiens
+HMG20A	HMG20B	anti tag coip	Homo sapiens
+KIF3A	KIF3B	anti tag coip	Homo sapiens
+KIF3A	KIF3B	anti tag coip	Homo sapiens
+KIF3B	KIF3A	tap	Homo sapiens
+KIF3B	KIF3A	socioaffinity inference	Homo sapiens
+FGFR1OP2	SIKE1	anti tag coip	Homo sapiens
+SIKE1	FGFR1OP2	anti tag coip	Homo sapiens
+SIKE1	FGFR1OP2	anti tag coip	Homo sapiens
+SIKE1	FGFR1OP2	anti tag coip	Homo sapiens
+SIKE1	FGFR1OP2	anti tag coip	Homo sapiens
+TRAK2	TRAK1	anti tag coip	Homo sapiens
+TRAK2	TRAK1	anti tag coip	Homo sapiens
+EVL	ENAH	anti tag coip	Homo sapiens
+EVL	ENAH	anti tag coip	Homo sapiens
+EVL	ENAH	anti tag coip	Homo sapiens
+VASP	EVL	anti tag coip	Homo sapiens
+EVL	VASP	anti tag coip	Homo sapiens
+VASP	EVL	anti tag coip	Homo sapiens
+VASP	EVL	anti tag coip	Homo sapiens
+ACVR1	BMPR1A	anti tag coip	Homo sapiens
+ACVR1	BMPR1A	anti tag coip	Homo sapiens
+ACVR1	BMPR1A	anti tag coip	Homo sapiens
+IP6K2	IP6K1	anti tag coip	Homo sapiens
+BCL7C	BCL7B	anti tag coip	Homo sapiens
+BCL7C	BCL7B	anti tag coip	Homo sapiens
+BCL7C	BCL7B	anti tag coip	Homo sapiens
+PSMC5	PSMC2	anti tag coip	Homo sapiens
+PSMC2	PSMC5	anti tag coip	Homo sapiens
+TAF15	FUS	pull down	Homo sapiens
+FUS	TAF15	pull down	Homo sapiens
+FCHO1	FCHO2	anti tag coip	Homo sapiens
+FCHO1	FCHO2	anti tag coip	Homo sapiens
+FCHO1	FCHO2	anti tag coip	Homo sapiens
+HOMER3	HOMER2	anti tag coip	Homo sapiens
+HOMER3	HOMER2	anti tag coip	Homo sapiens
+KLHL2	KLHL17	anti tag coip	Homo sapiens
+KLHL2	KLHL17	anti tag coip	Homo sapiens
+KLHL2	KLHL17	anti tag coip	Homo sapiens
+KLHL2	KLHL17	anti tag coip	Homo sapiens
+EHMT2	EHMT1	tap	Homo sapiens
+EHMT2	EHMT1	tap	Homo sapiens
+LPIN3	LPIN1	anti tag coip	Homo sapiens
+LPIN3	LPIN1	anti tag coip	Homo sapiens
+LPIN3	LPIN1	anti tag coip	Homo sapiens
+RSBN1L	RSBN1	anti tag coip	Homo sapiens
+RSBN1L	RSBN1	anti tag coip	Homo sapiens
+RSBN1L	RSBN1	anti tag coip	Homo sapiens
+TRIM52	TRIM41	two hybrid array	Homo sapiens
+MAP3K6	MAP3K5	2 hybrid	Homo sapiens
+MAP3K5	MAP3K6	anti tag coip	Homo sapiens
+ASAP3	ASAP2	anti tag coip	Homo sapiens
+ASAP3	ASAP2	anti tag coip	Homo sapiens
+TPD52L2	TPD52L1	anti tag coip	Homo sapiens
+TPD52L2	TPD52L1	2 hybrid	Homo sapiens
+TPD52L2	TPD52L1	2 hybrid	Homo sapiens
+TPD52L1	TPD52L2	2 hybrid	Homo sapiens
+TPD52L2	TPD52L1	2 hybrid	Homo sapiens
+TPD52L1	TPD52L2	anti tag coip	Homo sapiens
+TPD52L2	TPD52L1	anti tag coip	Homo sapiens
+TPD52L1	TPD52L2	anti tag coip	Homo sapiens
+IRF2BP1	IRF2BPL	anti tag coip	Homo sapiens
+IRF2BP1	IRF2BPL	anti tag coip	Homo sapiens
+IRF2BP1	IRF2BPL	anti tag coip	Homo sapiens
+UPF3A	UPF3B	pull down	Homo sapiens
+UPF3B	UPF3A	pull down	Homo sapiens
+RNF13	RNF167	anti tag coip	Homo sapiens
+RNF13	RNF167	anti tag coip	Homo sapiens
+FAM118A	FAM118B	validated two hybrid	Homo sapiens
+FAM118A	FAM118B	two hybrid prey pooling approach	Homo sapiens
+FAM118A	FAM118B	two hybrid array	Homo sapiens
+FAM118A	FAM118B	two hybrid prey pooling approach	Homo sapiens
+FAM118A	FAM118B	two hybrid array	Homo sapiens
+FAM118B	FAM118A	validated two hybrid	Homo sapiens
+SIPA1L2	SIPA1L3	anti tag coip	Homo sapiens
+SIPA1L2	SIPA1L3	anti tag coip	Homo sapiens
+SIPA1L3	SIPA1L2	anti tag coip	Homo sapiens
+SIPA1L2	SIPA1L3	anti tag coip	Homo sapiens
+USP11	USP4	anti tag coip	Homo sapiens
+ZNF397	ZKSCAN8	anti tag coip	Homo sapiens
+SEMA3C	SEMA3A	anti tag coip	Homo sapiens
+STIM2	STIM1	anti tag coip	Homo sapiens
+STIM2	STIM1	anti bait coip	Homo sapiens
+STIM2	STIM1	anti bait coip	Homo sapiens
+STIM1	STIM2	anti bait coip	Homo sapiens
+STIM2	STIM1	anti bait coip	Homo sapiens
+SAT1	SAT2	validated two hybrid	Homo sapiens
+SAT2	SAT1	two hybrid prey pooling approach	Homo sapiens
+SAT2	SAT1	two hybrid array	Homo sapiens
+OCRL	INPP5B	anti tag coip	Homo sapiens
+OCRL	INPP5B	anti tag coip	Homo sapiens
+PRAF2	ARL6IP5	crosslink	Homo sapiens
+ARL6IP5	PRAF2	anti bait coip	Homo sapiens
+PRAF2	ARL6IP5	imaging technique	Homo sapiens
+PRAF2	ARL6IP5	imaging technique	Homo sapiens
+IFIT2	IFIT1	anti tag coip	Homo sapiens
+IFIT2	IFIT1	molecular sieving	Homo sapiens
+IFIT1	IFIT2	anti tag coip	Homo sapiens
+IFIT2	IFIT1	anti tag coip	Homo sapiens
+IFIT2	IFIT1	anti tag coip	Homo sapiens
+IFIT2	IFIT1	anti tag coip	Homo sapiens
+IFIT2	IFIT1	anti tag coip	Homo sapiens
+ZNF397	ZSCAN21	anti tag coip	Homo sapiens
+MITF	TFEB	anti tag coip	Homo sapiens
+TFEB	MITF	anti tag coip	Homo sapiens
+MITF	TFEB	anti tag coip	Homo sapiens
+MITF	TFEB	anti tag coip	Homo sapiens
+TFEB	MITF	anti tag coip	Homo sapiens
+ATG4D	ATG4C	proximity-dependent biotin identification	Homo sapiens
+ATG4C	ATG4D	anti tag coip	Homo sapiens
+RFFL	RNF34	anti tag coip	Homo sapiens
+RFFL	RNF34	anti tag coip	Homo sapiens
+HDHD2	LHPP	anti tag coip	Homo sapiens
+HDHD2	LHPP	anti tag coip	Homo sapiens
+C1R	C1RL	anti tag coip	Homo sapiens
+C1R	C1RL	anti tag coip	Homo sapiens
+C1R	C1RL	anti tag coip	Homo sapiens
+EPB41L2	EPB41L1	anti tag coip	Homo sapiens
+CDK5	CDK14	anti tag coip	Homo sapiens
+CDK5	CDK14	anti tag coip	Homo sapiens
+CDK5	CDK14	anti tag coip	Homo sapiens
+PDLIM7	PDLIM5	anti tag coip	Homo sapiens
+PDLIM7	PDLIM5	anti tag coip	Homo sapiens
+PDLIM7	PDLIM5	anti tag coip	Homo sapiens
+PDLIM7	PDLIM5	anti tag coip	Homo sapiens
+CD9	CD81	anti bait coip	Homo sapiens
+ZKSCAN8	ZSCAN9	anti tag coip	Homo sapiens
+ZBTB6	ZBTB26	two hybrid prey pooling approach	Homo sapiens
+ZBTB6	ZBTB26	validated two hybrid	Homo sapiens
+ZBTB6	ZBTB26	two hybrid array	Homo sapiens
+ZBTB6	ZBTB26	validated two hybrid	Homo sapiens
+ZBTB6	ZBTB26	two hybrid prey pooling approach	Homo sapiens
+ZBTB6	ZBTB26	two hybrid array	Homo sapiens
+CREB3L1	CREB3L2	anti tag coip	Homo sapiens
+CDR2	CDR2L	anti tag coip	Homo sapiens
+CDR2	CDR2L	tap	Homo sapiens
+CDR2L	CDR2	socioaffinity inference	Homo sapiens
+CDR2	CDR2L	validated two hybrid	Homo sapiens
+CDR2L	CDR2	two hybrid prey pooling approach	Homo sapiens
+CDR2L	CDR2	two hybrid array	Homo sapiens
+CDR2L	CDR2	anti tag coip	Homo sapiens
+CDR2L	CDR2	anti tag coip	Homo sapiens
+CDR2	CDR2L	anti tag coip	Homo sapiens
+KIF1C	KIF1B	proximity-dependent biotin identification	Homo sapiens
+KIF1C	KIF1B	proximity-dependent biotin identification	Homo sapiens
+KIF1B	KIF1C	anti tag coip	Homo sapiens
+ZKSCAN8	ZKSCAN1	anti tag coip	Homo sapiens
+ZKSCAN4	ZKSCAN8	anti tag coip	Homo sapiens
+ATG2A	ATG2B	anti tag coip	Homo sapiens
+LRCH3	LRCH1	anti tag coip	Homo sapiens
+LRCH3	LRCH1	anti tag coip	Homo sapiens
+LRCH1	LRCH3	anti tag coip	Homo sapiens
+LRCH1	LRCH3	anti tag coip	Homo sapiens
+LRCH3	LRCH1	anti tag coip	Homo sapiens
+LRCH3	LRCH1	anti tag coip	Homo sapiens
+LRCH3	LRCH1	anti tag coip	Homo sapiens
+LRCH3	LRCH1	anti tag coip	Homo sapiens
+TIMP2	TIMP3	anti tag coip	Homo sapiens
+TIMP2	TIMP3	anti tag coip	Homo sapiens
+LRCH3	LRCH4	anti tag coip	Homo sapiens
+IFIT3	IFIT5	two hybrid array	Homo sapiens
+RNF166	RNF114	anti tag coip	Homo sapiens
+RNF166	RNF114	anti tag coip	Homo sapiens
+IFIT1	IFIT3	validated two hybrid	Homo sapiens
+IFIT1	IFIT3	bfg-2h	Homo sapiens
+IFIT3	IFIT1	pull down	Homo sapiens
+IFIT1	IFIT3	two hybrid array	Homo sapiens
+IFIT3	IFIT1	validated two hybrid	Homo sapiens
+IFIT3	IFIT1	two hybrid prey pooling approach	Homo sapiens
+IFIT1	IFIT3	anti tag coip	Homo sapiens
+IFIT3	IFIT1	anti tag coip	Homo sapiens
+IFIT1	IFIT3	molecular sieving	Homo sapiens
+IFIT1	IFIT3	anti tag coip	Homo sapiens
+IFIT3	IFIT1	two hybrid array	Homo sapiens
+IFIT1	IFIT3	two hybrid pooling	Homo sapiens
+GRPEL1	GRPEL2	anti tag coip	Homo sapiens
+GRPEL1	GRPEL2	anti tag coip	Homo sapiens
+ACAT2	ACAT1	anti tag coip	Homo sapiens
+CDK5	CDK20	anti tag coip	Homo sapiens
+PIAS2	PIAS4	2 hybrid	Homo sapiens
+EEF1D	EEF1B2	anti tag coip	Homo sapiens
+NID2	NID1	anti tag coip	Homo sapiens
+NID2	NID1	anti tag coip	Homo sapiens
+AGFG2	AGFG1	anti tag coip	Homo sapiens
+AGFG2	AGFG1	anti tag coip	Homo sapiens
+KCTD21	KCTD11	anti tag coip	Homo sapiens
+PPP6R1	PPP6R2	proximity-dependent biotin identification	Homo sapiens
+PPP6R2	PPP6R1	proximity-dependent biotin identification	Homo sapiens
+ARHGEF10	ARHGEF10L	anti tag coip	Homo sapiens
+ARHGEF10L	ARHGEF10	anti tag coip	Homo sapiens
+ARHGEF10L	ARHGEF10	anti tag coip	Homo sapiens
+SUMF1	SUMF2	anti bait coip	Homo sapiens
+SUMF1	SUMF2	anti tag coip	Homo sapiens
+SUMF2	SUMF1	anti tag coip	Homo sapiens
+SUMF1	SUMF2	anti tag coip	Homo sapiens
+SUMF1	SUMF2	comig non denat gel	Homo sapiens
+SUMF2	SUMF1	comig non denat gel	Homo sapiens
+SUMF1	SUMF2	fluorescence imaging	Homo sapiens
+SUMF2	SUMF1	anti tag coip	Homo sapiens
+SUMF1	SUMF2	anti tag coip	Homo sapiens
+VASP	ENAH	anti tag coip	Homo sapiens
+VASP	ENAH	anti tag coip	Homo sapiens
+ZNF212	ZNF783	mappit	Homo sapiens
+ZNF783	ZNF212	two hybrid prey pooling approach	Homo sapiens
+ZNF212	ZNF783	validated two hybrid	Homo sapiens
+ZNF212	ZNF783	two hybrid array	Homo sapiens
+ZNF783	ZNF212	validated two hybrid	Homo sapiens
+ZNF783	ZNF212	anti tag coip	Homo sapiens
+ZNF783	ZNF212	two hybrid array	Homo sapiens
+ZNF783	ZNF212	two hybrid prey pooling approach	Homo sapiens
+MON1A	MON1B	fluorescence imaging	Homo sapiens
+ZNF397	ZKSCAN1	anti tag coip	Homo sapiens
+ZNF397	ZKSCAN1	anti tag coip	Homo sapiens
+ZNF397	ZKSCAN1	anti tag coip	Homo sapiens
+KLHL2	KLHL12	anti tag coip	Homo sapiens
+IDH3A	IDH3B	anti tag coip	Homo sapiens
+IDH3A	IDH3B	ion exchange chrom	Homo sapiens
+IDH3A	IDH3B	molecular sieving	Homo sapiens
+IDH3A	IDH3B	reverse phase chrom	Homo sapiens
+GGA2	GGA3	pull down	Homo sapiens
+GGA3	GGA2	pull down	Homo sapiens
+GGA3	GGA2	electron microscopy	Homo sapiens
+PSMC5	PSMC4	anti tag coip	Homo sapiens
+PSMC4	PSMC5	validated two hybrid	Homo sapiens
+PSMC4	PSMC5	two hybrid prey pooling approach	Homo sapiens
+PSMC4	PSMC5	two hybrid array	Homo sapiens
+ZKSCAN4	ZSCAN21	anti tag coip	Homo sapiens
+SCRIB	LRRC1	anti tag coip	Homo sapiens
+SCRIB	LRRC1	anti tag coip	Homo sapiens
+NAB2	NAB1	anti tag coip	Homo sapiens
+NAB2	NAB1	anti tag coip	Homo sapiens
+IDH3A	IDH3G	anti tag coip	Homo sapiens
+ZSCAN21	ZKSCAN8	anti tag coip	Homo sapiens
+ASAP3	ASAP1	anti tag coip	Homo sapiens
+ASAP3	ASAP1	anti tag coip	Homo sapiens
+KLHL9	KLHL26	anti tag coip	Homo sapiens
+KLHL26	KLHL9	anti tag coip	Homo sapiens
+KLHL9	KLHL26	anti tag coip	Homo sapiens
+KLHL26	KLHL9	anti tag coip	Homo sapiens
+PSMC1	PSMC6	anti tag coip	Homo sapiens
+ZNF397	ZNF232	anti tag coip	Homo sapiens
+LRP3	LRP12	anti tag coip	Homo sapiens
+ARID3A	ARID3B	anti tag coip	Homo sapiens
+ARID3A	ARID3B	tap	Homo sapiens
+ARID3A	ARID3B	anti tag coip	Homo sapiens
+BAIAP2	BAIAP2L1	anti tag coip	Homo sapiens
+BAIAP2	BAIAP2L1	two hybrid prey pooling approach	Homo sapiens
+BAIAP2L1	BAIAP2	validated two hybrid	Homo sapiens
+BAIAP2	BAIAP2L1	two hybrid array	Homo sapiens
+BAIAP2	BAIAP2L1	anti tag coip	Homo sapiens
+BAIAP2	BAIAP2L1	anti tag coip	Homo sapiens
+BAIAP2	BAIAP2L1	anti tag coip	Homo sapiens
+BAIAP2	BAIAP2L1	anti tag coip	Homo sapiens
+BAIAP2L1	BAIAP2	anti tag coip	Homo sapiens
+PSMC2	PSMC6	anti tag coip	Homo sapiens
+EPB41L1	EPB41	anti tag coip	Homo sapiens
+CCDC90B	MCUR1	anti tag coip	Homo sapiens
+CCDC90B	MCUR1	anti tag coip	Homo sapiens
+MCUR1	CCDC90B	anti tag coip	Homo sapiens
+ZKSCAN4	ZKSCAN1	anti tag coip	Homo sapiens
+ZKSCAN4	ZKSCAN1	anti tag coip	Homo sapiens
+ZNF232	ZSCAN21	anti tag coip	Homo sapiens
+STAT2	STAT1	coip	Homo sapiens
+STAT2	STAT1	competition binding	Homo sapiens
+STAT1	STAT2	pull down	Homo sapiens
+STAT2	STAT1	coip	Homo sapiens
+STAT2	STAT1	competition binding	Homo sapiens
+STAT1	STAT2	pull down	Homo sapiens
+ZNF24	ZKSCAN1	anti tag coip	Homo sapiens
+ZNF24	ZKSCAN1	anti tag coip	Homo sapiens
+CRYAB	HSPB1	anti tag coip	Homo sapiens
+ZNF397	ZNF24	anti tag coip	Homo sapiens
+ZSCAN32	ZSCAN29	anti tag coip	Homo sapiens
+ZNF250	ZFP1	validated two hybrid	Homo sapiens
+ZNF250	ZFP1	two hybrid prey pooling approach	Homo sapiens
+ZNF250	ZFP1	two hybrid array	Homo sapiens
+ZKSCAN4	ZNF397	two hybrid array	Homo sapiens
+ZKSCAN4	ZNF397	validated two hybrid	Homo sapiens
+ZKSCAN4	ZNF397	bifc	Homo sapiens
+ZKSCAN4	ZNF397	two hybrid prey pooling approach	Homo sapiens
+ZKSCAN4	ZNF397	two hybrid array	Homo sapiens
+ZKSCAN4	ZNF397	validated two hybrid	Homo sapiens
+ZKSCAN4	ZNF397	two hybrid prey pooling approach	Homo sapiens
+ZNF397	ZKSCAN4	anti tag coip	Homo sapiens
+PSMC4	PSMC6	anti tag coip	Homo sapiens
+GPRC5B	GPRC5C	anti tag coip	Homo sapiens
+H1-0	H1-2	crosslink	Homo sapiens
+CALM2	CETN3	anti tag coip	Homo sapiens
+CALM3	CETN3	anti tag coip	Homo sapiens
+TFEB	TFE3	anti tag coip	Homo sapiens
+TFEB	TFE3	anti tag coip	Homo sapiens
+TFEB	TFE3	anti tag coip	Homo sapiens
+TFEB	TFE3	anti tag coip	Homo sapiens
+BCLAF1	THRAP3	anti tag coip	Homo sapiens
+BCLAF1	THRAP3	molecular sieving	Homo sapiens
+THRAP3	BCLAF1	anti tag coip	Homo sapiens
+THRAP3	BCLAF1	anti bait coip	Homo sapiens
+BCLAF1	THRAP3	anti bait coip	Homo sapiens
+THRAP3	BCLAF1	anti tag coip	Homo sapiens
+PLEKHA3	PLEKHA8	anti tag coip	Homo sapiens
+PLEKHA3	PLEKHA8	anti tag coip	Homo sapiens
+DNAJC6	GAK	anti tag coip	Homo sapiens
+ZSCAN21	ZKSCAN1	anti tag coip	Homo sapiens
+TJP2	TJP1	proximity-dependent biotin identification	Homo sapiens
+ZNF232	ZSCAN30	anti tag coip	Homo sapiens
+E2F2	E2F1	pla	Homo sapiens
+HSF4	HSF1	anti tag coip	Homo sapiens
+HSF4	HSF1	anti tag coip	Homo sapiens
+HEXIM1	HEXIM2	anti tag coip	Homo sapiens
+HEXIM1	HEXIM2	validated two hybrid	Homo sapiens
+HEXIM2	HEXIM1	two hybrid prey pooling approach	Homo sapiens
+HEXIM2	HEXIM1	two hybrid array	Homo sapiens
+THBS3	THBS1	anti tag coip	Homo sapiens
+THBS3	THBS1	anti tag coip	Homo sapiens
+EGFL8	EGFL7	anti tag coip	Homo sapiens
+EGFL8	EGFL7	anti tag coip	Homo sapiens
+EGFL8	EGFL7	anti tag coip	Homo sapiens
+ZNF397	ZNF394	anti tag coip	Homo sapiens
+ZNF397	ZNF394	anti tag coip	Homo sapiens
+RRP1B	RRP1	anti tag coip	Homo sapiens
+RRP1	RRP1B	anti tag coip	Homo sapiens
+PSMC3	PSMC4	anti tag coip	Homo sapiens
+C1S	C1R	anti tag coip	Homo sapiens
+C1R	C1S	protease assay	Homo sapiens
+C1S	C1R	molecular sieving	Homo sapiens
+C1R	C1S	equilib. dialysis	Homo sapiens
+C1R	C1S	spr	Homo sapiens
+C1R	C1S	molecular sieving	Homo sapiens
+C1S	C1R	anti tag coip	Homo sapiens
+ZNF232	ZKSCAN4	anti tag coip	Homo sapiens
+LRCH1	LRCH4	anti tag coip	Homo sapiens
+LRCH1	LRCH4	anti tag coip	Homo sapiens
+LRCH1	LRCH4	anti tag coip	Homo sapiens
+SH3KBP1	CD2AP	anti tag coip	Homo sapiens
+CD2AP	SH3KBP1	2h fragment pooling	Homo sapiens
+PPP1R12A	PPP1R12C	pull down	Homo sapiens
+PPP1R12A	PPP1R12C	proximity-dependent biotin identification	Homo sapiens
+ZMYM2	ZMYM3	anti tag coip	Homo sapiens
+ESYT1	ESYT2	anti tag coip	Homo sapiens
+ESYT1	ESYT2	pull down	Homo sapiens
+PHF19	PHF1	tap	Homo sapiens
+ZSCAN21	ZNF24	two hybrid prey pooling approach	Homo sapiens
+ZSCAN21	ZNF24	two hybrid array	Homo sapiens
+ZSCAN21	ZNF24	validated two hybrid	Homo sapiens
+GLI4	ZNF696	anti tag coip	Homo sapiens
+ZNF398	ZNF777	anti tag coip	Homo sapiens
+ZNF398	ZNF777	anti tag coip	Homo sapiens
+ZNF398	ZNF777	anti tag coip	Homo sapiens
+ZNF232	ZKSCAN1	anti tag coip	Homo sapiens
+ZNF232	ZKSCAN1	anti tag coip	Homo sapiens
+AFF1	AFF4	affinity chrom	Homo sapiens
+AFF4	AFF1	affinity chrom	Homo sapiens
+AFF1	AFF4	anti bait coip	Homo sapiens
+AFF1	AFF4	anti bait coip	Homo sapiens
+AFF1	AFF4	anti bait coip	Homo sapiens
+AFF1	AFF4	anti bait coip	Homo sapiens
+AFF1	AFF4	anti bait coip	Homo sapiens
+AFF4	AFF1	anti tag coip	Homo sapiens
+OSBPL9	OSBPL11	2 hybrid	Homo sapiens
+OSBPL9	OSBPL11	anti tag coip	Homo sapiens
+OSBPL9	OSBPL11	2 hybrid	Homo sapiens
+OSBPL9	OSBPL11	2 hybrid	Homo sapiens
+OSBPL9	OSBPL11	anti tag coip	Homo sapiens
+OSBPL11	OSBPL9	bifc	Homo sapiens
+OSBPL11	OSBPL9	anti tag coip	Homo sapiens
+OSBPL9	OSBPL11	anti tag coip	Homo sapiens
+TRIM39	TRIM21	two hybrid array	Homo sapiens
+APLP2	APLP1	anti tag coip	Homo sapiens
+APLP1	APLP2	anti tag coip	Homo sapiens
+PSMC2	PSMC3	anti tag coip	Homo sapiens
+PSMC2	PSMC3	anti tag coip	Homo sapiens
+GMEB1	GMEB2	anti tag coip	Homo sapiens
+GMEB1	GMEB2	anti tag coip	Homo sapiens
+GMEB1	GMEB2	anti tag coip	Homo sapiens
+ZNF213	ZNF24	anti tag coip	Homo sapiens
+ZNF213	ZNF24	anti tag coip	Homo sapiens
+ZNF213	ZNF24	anti tag coip	Homo sapiens
+CDK7	CDK20	anti tag coip	Homo sapiens
+IRF2BP1	IRF2BP2	anti tag coip	Homo sapiens
+IRF2BP1	IRF2BP2	anti tag coip	Homo sapiens
+IRF2BP1	IRF2BP2	anti tag coip	Homo sapiens
+PSMC2	PSMC4	anti tag coip	Homo sapiens
+PSMC2	PSMC4	anti tag coip	Homo sapiens
+ELF2	ELF1	proximity-dependent biotin identification	Homo sapiens
+UBE2N	UBE2C	ubiquitinase assay	Homo sapiens
+ZKSCAN4	ZNF24	anti tag coip	Homo sapiens
+MLF1	MLF2	lumier	Homo sapiens
+MLF2	MLF1	lumier	Homo sapiens
+ATN1	RERE	2 hybrid	Homo sapiens
+RERE	ATN1	2 hybrid	Homo sapiens
+RERE	ATN1	2 hybrid	Homo sapiens
+ATXN2L	ATXN2	anti bait coip	Homo sapiens
+ATXN2L	ATXN2	anti bait coip	Homo sapiens
+ATXN2L	ATXN2	confocal microscopy	Homo sapiens
+ATXN2L	ATXN2	anti bait coip	Homo sapiens
+ATXN2	ATXN2L	bn-page	Homo sapiens
+PSMA7	PSMA2	2 hybrid	Homo sapiens
+ZNF695	ZNF195	anti tag coip	Homo sapiens
+TAP1	TAP2	pull down	Homo sapiens
+TAP1	TAP2	anti bait coip	Homo sapiens
+TAP2	TAP1	anti bait coip	Homo sapiens
+TAP2	TAP1	anti tag coip	Homo sapiens
+ARHGAP17	SH3BP1	anti tag coip	Homo sapiens
+ARHGAP17	SH3BP1	anti tag coip	Homo sapiens
+ARHGAP17	SH3BP1	anti tag coip	Homo sapiens
+ARHGAP17	SH3BP1	anti tag coip	Homo sapiens
+ZNF398	ZNF746	anti tag coip	Homo sapiens
+ZNF398	ZNF746	anti tag coip	Homo sapiens
+ZNF398	ZNF746	anti tag coip	Homo sapiens
+ZNF232	ZNF24	anti tag coip	Homo sapiens
+ZNF24	ZNF232	validated two hybrid	Homo sapiens
+ZNF232	ZNF24	two hybrid prey pooling approach	Homo sapiens
+ZNF232	ZNF24	two hybrid array	Homo sapiens
+MXD3	MXI1	anti tag coip	Homo sapiens
+MXD3	MXI1	anti tag coip	Homo sapiens
+OSBPL10	OSBPL9	anti tag coip	Homo sapiens
+OSBPL10	OSBPL9	bifc	Homo sapiens
+OSBPL9	OSBPL10	anti tag coip	Homo sapiens
+HSF1	HSF2	anti tag coip	Homo sapiens
+HSF1	HSF2	pull down	Homo sapiens
+HSF1	HSF2	molecular sieving	Homo sapiens
+HSF1	HSF2	pull down	Homo sapiens
+HSF1	HSF2	pull down	Homo sapiens
+HSF1	HSF2	crosslink	Homo sapiens
+HSF1	HSF2	anti tag coip	Homo sapiens
+HSF1	HSF2	pull down	Homo sapiens
+HSF2	HSF1	anti tag coip	Homo sapiens
+SKI	SKIL	anti tag coip	Homo sapiens
+EID2B	EID2	anti tag coip	Homo sapiens
+EID2B	EID2	anti tag coip	Homo sapiens
+PSMA4	PSMA7	two hybrid array	Homo sapiens
+PSMA7	PSMA4	validated two hybrid	Homo sapiens
+PSMA4	PSMA7	two hybrid prey pooling approach	Homo sapiens
+ZNF232	ZKSCAN8	anti tag coip	Homo sapiens
+ZNF232	ZKSCAN8	anti tag coip	Homo sapiens
+ABCD1	ABCD3	2 hybrid	Homo sapiens
+ABCD3	ABCD1	coip	Homo sapiens
+BCL7C	BCL7A	tap	Homo sapiens
+BCL7A	BCL7C	anti tag coip	Homo sapiens
+PSMA2	PSMA4	anti tag coip	Homo sapiens
+ELF3	EHF	anti bait coip	Homo sapiens
+KLHL2	KEAP1	anti tag coip	Homo sapiens
+LARP4	LARP4B	proximity-dependent biotin identification	Homo sapiens
+LARP4B	LARP4	anti tag coip	Homo sapiens
+CASP3	CASP6	pla	Homo sapiens
+CASP3	CASP6	protease assay	Homo sapiens
+RAB11FIP4	RAB11FIP3	anti tag coip	Homo sapiens
+RAB11FIP4	RAB11FIP3	anti tag coip	Homo sapiens
+ZNF263	ZNF397	anti tag coip	Homo sapiens
+ARSA	GALNS	anti tag coip	Homo sapiens
+ARSA	GALNS	anti tag coip	Homo sapiens
+ARSA	GALNS	anti tag coip	Homo sapiens
+ZNF286A	ZNF121	anti tag coip	Homo sapiens
+ZNF286A	ZNF121	anti tag coip	Homo sapiens
+RFC4	RFC5	crosslink	Homo sapiens
+RFC5	RFC4	anti tag coip	Homo sapiens
+RFC5	RFC4	two hybrid prey pooling approach	Homo sapiens
+RFC5	RFC4	two hybrid prey pooling approach	Homo sapiens
+RFC5	RFC4	validated two hybrid	Homo sapiens
+RFC5	RFC4	two hybrid array	Homo sapiens
+RFC4	RFC5	two hybrid array	Homo sapiens
+RFC4	RFC5	validated two hybrid	Homo sapiens
+RFC5	RFC4	two hybrid prey pooling approach	Homo sapiens
+RFC5	RFC4	two hybrid array	Homo sapiens
+RFC5	RFC4	two hybrid array	Homo sapiens
+RFC5	RFC4	two hybrid prey pooling approach	Homo sapiens
+RFC5	RFC4	two hybrid prey pooling approach	Homo sapiens
+RFC5	RFC4	two hybrid array	Homo sapiens
+SNX18	SNX9	pull down	Homo sapiens
+DHX38	DHX16	2 hybrid	Homo sapiens
+DHX38	DHX16	anti tag coip	Homo sapiens
+ZNF213	ZKSCAN1	anti tag coip	Homo sapiens
+ZNF213	ZKSCAN1	anti tag coip	Homo sapiens
+DHX58	IFIH1	anti tag coip	Homo sapiens
+ZNF263	ZKSCAN8	anti tag coip	Homo sapiens
+ZNF263	ZKSCAN8	anti tag coip	Homo sapiens
+ZNF175	ZNF250	two hybrid array	Homo sapiens
+ZNF250	ZNF175	two hybrid prey pooling approach	Homo sapiens
+ZNF250	ZNF175	validated two hybrid	Homo sapiens
+AUTS2	FBRS	tap	Homo sapiens
+KCTD6	KCTD21	anti tag coip	Homo sapiens
+CDC37L1	CDC37	anti tag coip	Homo sapiens
+SCO1	SCO2	proximity-dependent biotin identification	Homo sapiens
+ZNF16	ZNF7	2 hybrid	Homo sapiens
+NFE2L3	NFE2L1	fret	Homo sapiens
+ZNF397	ZNF213	anti tag coip	Homo sapiens
+ZNF397	ZNF213	anti tag coip	Homo sapiens
+GMPPA	GMPPB	two hybrid prey pooling approach	Homo sapiens
+GMPPA	GMPPB	two hybrid array	Homo sapiens
+GMPPB	GMPPA	validated two hybrid	Homo sapiens
+GMPPB	GMPPA	two hybrid prey pooling approach	Homo sapiens
+GMPPB	GMPPA	two hybrid array	Homo sapiens
+GMPPA	GMPPB	validated two hybrid	Homo sapiens
+GMPPB	GMPPA	two hybrid array	Homo sapiens
+GMPPB	GMPPA	anti tag coip	Homo sapiens
+GMPPB	GMPPA	anti tag coip	Homo sapiens
+GMPPB	GMPPA	two hybrid pooling	Homo sapiens
+GMPPB	GMPPA	anti tag coip	Homo sapiens
+DERL2	DERL1	pull down	Homo sapiens
+SNX33	SNX9	pull down	Homo sapiens
+SNX33	SNX9	anti tag coip	Homo sapiens
+LTBP2	LTBP4	anti tag coip	Homo sapiens
+E2F8	E2F7	anti tag coip	Homo sapiens
+E2F7	E2F8	anti tag coip	Homo sapiens
+E2F8	E2F7	anti bait coip	Homo sapiens
+E2F7	E2F8	anti tag coip	Homo sapiens
+RFC4	RFC2	pull down	Homo sapiens
+RFC4	RFC2	pull down	Homo sapiens
+RFC4	RFC2	pull down	Homo sapiens
+DLAT	PDHX	2 hybrid	Homo sapiens
+APLP1	APP	anti tag coip	Homo sapiens
+APLP1	APP	anti tag coip	Homo sapiens
+SEPTIN9	SEPTIN5	anti tag coip	Homo sapiens
+EXT2	EXT1	anti tag coip	Homo sapiens
+EXT1	EXT2	fret	Homo sapiens
+EXT1	EXT2	affinity chrom	Homo sapiens
+EXT1	EXT2	light scattering	Homo sapiens
+EXT1	EXT2	3d-em	Homo sapiens
+EXT1	EXT2	dsc	Homo sapiens
+EXT1	EXT2	electron microscopy	Homo sapiens
+EXT1	EXT2	3d-em	Homo sapiens
+EXT1	EXT2	light scattering	Homo sapiens
+EXT2	EXT1	anti tag coip	Homo sapiens
+ZKSCAN4	ZNF213	anti tag coip	Homo sapiens
+S100A13	S100A14	validated two hybrid	Homo sapiens
+S100A13	S100A14	two hybrid prey pooling approach	Homo sapiens
+S100A13	S100A14	two hybrid prey pooling approach	Homo sapiens
+S100A13	S100A14	two hybrid array	Homo sapiens
+S100A13	S100A14	two hybrid array	Homo sapiens
+ZNF232	ZNF213	anti tag coip	Homo sapiens
+ZNF232	ZNF213	anti tag coip	Homo sapiens
+SIPA1L3	SIPA1	anti tag coip	Homo sapiens
+SIPA1L3	SIPA1	anti tag coip	Homo sapiens
+TMUB2	TMUB1	anti tag coip	Homo sapiens
+TMUB2	TMUB1	anti tag coip	Homo sapiens
+SIPA1L2	SIPA1	anti tag coip	Homo sapiens
+ZMYM4	ZMYM3	tap	Homo sapiens
+RAB43	RAB33B	anti tag coip	Homo sapiens
+ZNF213	ZSCAN21	validated two hybrid	Homo sapiens
+ZSCAN21	ZNF213	two hybrid prey pooling approach	Homo sapiens
+ZSCAN21	ZNF213	two hybrid array	Homo sapiens
+ZNF213	ZSCAN21	anti tag coip	Homo sapiens
+TRIM21	TRIM27	two hybrid array	Homo sapiens
+NUBPL	NUBP2	two hybrid prey pooling approach	Homo sapiens
+NUBPL	NUBP2	validated two hybrid	Homo sapiens
+NUBPL	NUBP2	two hybrid array	Homo sapiens
+NUBPL	NUBP2	mappit	Homo sapiens
+NUBPL	NUBP2	two hybrid prey pooling approach	Homo sapiens
+NUBPL	NUBP2	two hybrid array	Homo sapiens
+KLHL20	IPP	anti tag coip	Homo sapiens
+POMT1	POMT2	anti tag coip	Homo sapiens
+POMT1	POMT2	fluorescence imaging	Homo sapiens
+GLI4	ZNF121	anti tag coip	Homo sapiens
+MYO1E	MYO1C	anti tag coip	Homo sapiens
+ZMYM4	ZMYM2	tap	Homo sapiens
+ZMYM2	ZMYM4	anti tag coip	Homo sapiens
+PHC1	PHC2	anti tag coip	Homo sapiens
+ATF6B	ATF6	fret	Homo sapiens
+ATF6	ATF6B	fret	Homo sapiens
+AKAP8	AKAP8L	molecular sieving	Homo sapiens
+AKAP8	AKAP8L	molecular sieving	Homo sapiens
+ZKSCAN8	ZNF213	anti tag coip	Homo sapiens
+PDCD6	PEF1	2 hybrid	Homo sapiens
+PDCD6	PEF1	two hybrid array	Homo sapiens
+PDCD6	PEF1	two hybrid prey pooling approach	Homo sapiens
+PEF1	PDCD6	validated two hybrid	Homo sapiens
+PDCD6	PEF1	two hybrid array	Homo sapiens
+PEF1	PDCD6	two hybrid prey pooling approach	Homo sapiens
+PEF1	PDCD6	two hybrid array	Homo sapiens
+PDCD6	PEF1	validated two hybrid	Homo sapiens
+PEF1	PDCD6	two hybrid prey pooling approach	Homo sapiens
+PER3	PER1	anti tag coip	Homo sapiens
+PER3	PER1	anti tag coip	Homo sapiens
+PER3	PER1	anti tag coip	Homo sapiens
+ZNF526	ZNF574	anti tag coip	Homo sapiens
+ZNF397	ZNF500	anti tag coip	Homo sapiens
+ZNF397	ZNF500	anti tag coip	Homo sapiens
+KCTD6	KCTD11	anti tag coip	Homo sapiens
+KCTD6	KCTD11	anti tag coip	Homo sapiens
+KCTD6	KCTD11	anti tag coip	Homo sapiens
+EXTL3	EXT2	anti tag coip	Homo sapiens
+EXT2	EXTL3	anti tag coip	Homo sapiens
+TGFBR2	ACVR2A	anti tag coip	Homo sapiens
+CMTM6	CMTM4	anti bait coip	Homo sapiens
+CMTM6	CMTM4	anti bait coip	Homo sapiens
+CMTM4	CMTM6	anti bait coip	Homo sapiens
+CAV2	CAV1	anti tag coip	Homo sapiens
+CAV2	CAV1	anti tag coip	Homo sapiens
+MDM4	MDM2	anti tag coip	Homo sapiens
+MDM4	MDM2	two hybrid array	Homo sapiens
+MDM4	MDM2	2 hybrid	Homo sapiens
+MDM2	MDM4	anti bait coip	Homo sapiens
+MDM2	MDM4	2 hybrid	Homo sapiens
+MDM4	MDM2	coip	Homo sapiens
+MDM2	MDM4	coip	Homo sapiens
+MDM4	MDM2	coip	Homo sapiens
+MDM2	MDM4	pull down	Homo sapiens
+MDM2	MDM4	pull down	Homo sapiens
+MDM4	MDM2	anti tag coip	Homo sapiens
+MDM4	MDM2	anti tag coip	Homo sapiens
+MDM4	MDM2	anti tag coip	Homo sapiens
+MDM4	MDM2	anti bait coip	Homo sapiens
+MDM4	MDM2	imaging technique	Homo sapiens
+MDM2	MDM4	anti tag coip	Homo sapiens
+ZNF263	ZNF24	anti tag coip	Homo sapiens
+KLHL12	IPP	anti tag coip	Homo sapiens
+KLHL12	IPP	anti tag coip	Homo sapiens
+CBX6	CBX8	tap	Homo sapiens
+KLHL28	IPP	anti tag coip	Homo sapiens
+KLHL28	IPP	anti tag coip	Homo sapiens
+KLHL28	IPP	anti tag coip	Homo sapiens
+ERGIC3	ERGIC2	anti tag coip	Homo sapiens
+ERGIC2	ERGIC3	anti tag coip	Homo sapiens
+ERGIC3	ERGIC2	anti tag coip	Homo sapiens
+ERGIC3	ERGIC2	anti tag coip	Homo sapiens
+MTMR6	MTMR9	anti tag coip	Homo sapiens
+MTMR9	MTMR6	anti tag coip	Homo sapiens
+MTMR6	MTMR9	proximity-dependent biotin identification	Homo sapiens
+MTMR6	MTMR9	two hybrid prey pooling approach	Homo sapiens
+MTMR6	MTMR9	two hybrid array	Homo sapiens
+MTMR6	MTMR9	validated two hybrid	Homo sapiens
+MTMR6	MTMR9	two hybrid prey pooling approach	Homo sapiens
+MTMR9	MTMR6	two hybrid array	Homo sapiens
+MTMR9	MTMR6	two hybrid array	Homo sapiens
+MTMR9	MTMR6	validated two hybrid	Homo sapiens
+MTMR9	MTMR6	two hybrid prey pooling approach	Homo sapiens
+MTMR6	MTMR9	2 hybrid	Homo sapiens
+MTMR9	MTMR6	anti tag coip	Homo sapiens
+MTMR9	MTMR6	anti tag coip	Homo sapiens
+MTMR9	MTMR6	anti tag coip	Homo sapiens
+KLHL22	KLHL9	anti tag coip	Homo sapiens
+TSC22D3	TSC22D1	anti tag coip	Homo sapiens
+PSMA1	PSMA7	anti tag coip	Homo sapiens
+ARHGEF12	ARHGEF11	anti tag coip	Homo sapiens
+ARHGEF12	ARHGEF11	anti tag coip	Homo sapiens
+VTI1A	VTI1B	anti tag coip	Homo sapiens
+ZNF232	ZNF263	anti tag coip	Homo sapiens
+SEPTIN7	SEPTIN9	anti tag coip	Homo sapiens
+PARP1	PARP2	anti tag coip	Homo sapiens
+ZNF687	ZNF592	anti tag coip	Homo sapiens
+PHC1	PHC3	anti tag coip	Homo sapiens
+KLHL24	KLHL21	anti tag coip	Homo sapiens
+GNL3	GNL3L	proximity-dependent biotin identification	Homo sapiens
+ARHGEF28	ARHGEF18	anti tag coip	Homo sapiens
+ARHGEF28	ARHGEF18	anti tag coip	Homo sapiens
+AJUBA	LIMD1	anti tag coip	Homo sapiens
+AJUBA	LIMD1	anti tag coip	Homo sapiens
+SLC26A6	SLC26A2	anti tag coip	Homo sapiens
+ERGIC1	ERGIC3	fluorescence imaging	Homo sapiens
+ERGIC1	ERGIC3	crosslink	Homo sapiens
+ERGIC3	ERGIC1	fluorescence imaging	Homo sapiens
+ERGIC3	ERGIC1	anti tag coip	Homo sapiens
+HSF4	HSF2	anti tag coip	Homo sapiens
+CEBPD	CEBPB	peptide array	Homo sapiens
+ZBTB26	ZBTB12	validated two hybrid	Homo sapiens
+ZBTB12	ZBTB26	two hybrid array	Homo sapiens
+ZBTB12	ZBTB26	two hybrid prey pooling approach	Homo sapiens
